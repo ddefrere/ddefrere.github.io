@@ -7,7 +7,7 @@ first_name: Denis
 middle_name: 
 last_name: Defrère
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Professor of Astronomy at KU Leuven, Belgium.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Professor of Astronomy at KU Leuven
 footer_text: >
@@ -30,7 +30,8 @@ back_to_top: true # set to false to disable the back to top button
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: light # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+theme_toggle: true # enables the theme toggle button in the navbar
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
