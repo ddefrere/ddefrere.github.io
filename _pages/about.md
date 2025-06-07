@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am an astronomy professor and researcher at the <a href="https://fys.kuleuven.be/ster"> departement of astronomy </a> of <a href="https://www.kuleuven.be/kuleuven/"> KU Leuven </a> in Belgium, where I work towards finding scientific answers to some of the most intriguing questions about our universe. My research background covers the entire process of observational astronomy, from instrument development and commissioning to data reduction and acquisition software, observations, data interpretation, and publication of results. 
+s
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
