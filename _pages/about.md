@@ -26,5 +26,5 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an astronomy professor and researcher at the <a href="https://fys.kuleuven.be/ster"> departement of astronomy </a> of <a href="https://www.kuleuven.be/kuleuven/"> KU Leuven </a> in Belgium, where I work towards finding scientific answers to some of the most intriguing questions about our universe. My research background covers the entire process of observational astronomy, from instrument development and commissioning to data reduction and acquisition software, observations, data interpretation, and publication of results. 
 
+I am an astronomy professor and researcher at the <a href="https://fys.kuleuven.be/ster"> departement of astronomy </a> of <a href="https://www.kuleuven.be/kuleuven/"> KU Leuven </a> in Belgium, where I work towards finding scientific answers to some of the most intriguing questions about our universe. My research background covers the entire process of observational astronomy, from instrument development and commissioning to data reduction and acquisition software, observations, data interpretation, and publication of results.
