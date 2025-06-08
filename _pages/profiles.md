@@ -47,7 +47,7 @@ nav_order: 7
         <li> Thomas Mattheussen (2024-2025) </li>
         <li> Noel James (2023-2024) </li>
         <li> Luis Bala (2023-2024) </li>
-        <li> Davide Dionese (2023-2024) </li>
+        <li> Davide Dionese (2023-2024, co-supervision with Leen Decin) </li>
         <li> Philippe Neuville (2022-2023) </li>
         <li> Purvaja Karthikeyan (2022-2023) </li> 
         <li> Colin Dandumont (2019-2020, co-supervision with Jérôme Loicq) </li> 
