@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Denis Defrère",
+    "name": "Denis Defr\u00e8re",
     "label": "Professor of Astronomy",
     "image": "",
     "email": "denis.defrere@kuleuven.be",
-    "url": "https://ddefrere.github.io/",
+    "url": "denis-defrere.com",
     "summary": "I am an astronomer and professor at KU Leuven, Belgium, specializing in exoplanets and astrophysics. ",
     "location": {
       "address": "Celestijnenlaan 200D",
@@ -22,13 +22,53 @@
   },
   "work": [
     {
-      "name": "Institute of Astronomy, KU Leuven",
-      "position": "Professor of Astronomy",
+      "position": "Associate Professor",
+      "name": "Institute of Astronomy, KU Leuven, Belgium",
       "url": "https://fys.kuleuven.be/ster",
       "startDate": "2020-10-01",
       "endDate": "",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Planetary systems"]
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "Research Engineer",
+      "name": "PSILab, FNRS, Li\u00e8ge Space Center, University of Li\u00e8ge, Belgium",
+      "startDate": "2016-03-01",
+      "endDate": "2020-09-30",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "Research Associate",
+      "name": "Steward Observatory, University of Arizona, United States",
+      "startDate": "2012-09-01",
+      "endDate": "2016-02-29",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "Postdoctoral Fellow",
+      "name": "Max Planck Institute for Radio Astronomy, Germany",
+      "startDate": "2010-01-01",
+      "endDate": "2012-08-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "FRS-FNRS PhD student",
+      "name": "STAR Institute, University of Li\u00e8ge, Belgium",
+      "startDate": "2005-10-01",
+      "endDate": "2009-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "position": "ESA Trainee",
+      "name": "European Space Agency, Noordwijk, The Netherlands",
+      "startDate": "2005-02-01",
+      "endDate": "2005-05-31",
+      "summary": "",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -45,91 +85,222 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Li\u00e8ge",
+      "studyType": "Ph.D. in Science, Astrophysics",
+      "startDate": "2005-10-01",
+      "endDate": "2009-12-01",
+      "summary": "Detection of exozodiacal dust: a step toward Earth-like planet characterization with infrared interferometry.",
+      "url": "https://orbi.uliege.be/handle/2268/203052"
+    },
+    {
+      "institution": "University of Li\u00e8ge",
+      "studyType": "M.Phil. in Science",
+      "startDate": "2005-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Performance study of space-based infrared nulling interferometers.",
+      "url": "https://orbi.uliege.be/handle/2268/203054"
+    },
+    {
+      "institution": "University of Li\u00e8ge",
+      "studyType": "Civil Engineer in Physics",
+      "startDate": "2000-01-01",
+      "endDate": "2005-01-01",
+      "summary": "Implications of the Pioneer Anomaly for the Laser Interferometer Space Antenna.",
+      "url": "https://orbi.uliege.be/handle/2268/203055"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "NASA 2020 Honor Group Achievement Award",
+      "date": "2020",
+      "summary": "Together with the HOSTS and LBTI teams"
+    },
+    {
+      "title": "NASA 2019 Group Achievement Award",
+      "date": "2019",
+      "summary": "Together with the NASA/JPL team"
+    },
+    {
+      "title": "ERC Consolidator grant",
+      "date": "2019",
+      "summary": ""
+    },
+    {
+      "title": "Marie Sklodowska-Curie Actions Seal of Excellence",
+      "date": "2017",
+      "summary": ""
+    },
+    {
+      "title": "OPTICON-H2020 Joint Research Network grant",
+      "date": "2016",
+      "summary": ""
+    },
+    {
+      "title": "Max Planck Society grant",
+      "date": "2010-2012",
+      "summary": ""
+    },
+    {
+      "title": "FRIA Graduate Fellowship",
+      "date": "2005-2009",
+      "summary": "Belgian National Fund for research in Industry and Agriculture"
+    },
+    {
+      "title": "Fizeau Exchange Visitors Program Grant",
+      "date": "2008-2010",
+      "summary": "European Interferometry Initiative"
+    },
+    {
+      "title": "Odissea Award",
+      "date": "2005",
+      "summary": "Award of the Belgian Senate for diploma thesis"
+    },
+    {
+      "title": "J. Genard Award",
+      "date": "2005",
+      "summary": "Astrophysics and Geophysics Department at University of Li\u00e8ge"
+    },
+    {
+      "title": "Pisart grant",
+      "date": "2005",
+      "summary": "Merit-based scholarship at the University of Li\u00e8ge"
     }
   ],
-  "certificates": [
+  "professional_experience": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "position": "Designated Campus Colleague",
+      "organization": "University of Arizona",
+      "startDate": "2019",
+      "endDate": "2020"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "position": "ULi\u00e8ge local project manager for METIS",
+      "organization": "European Southern Observatory",
+      "url": "https://elt.eso.org/instrument/METIS/",
+      "startDate": "2019",
+      "endDate": "2020"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "position": "Science Team Member",
+      "organization": "LEECH exoplanet survey, HOSTS exozodi survey",
+      "startDate": "2012",
+      "endDate": "2020"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "position": "Technical Lead",
+      "organization": "LIFE space project",
+      "url": "https://www.life-space-mission.com",
+      "startDate": "2018",
+      "endDate": "2022"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "position": "Principal Investigator",
+      "organization": "Asgard/NOTT",
+      "url": "https://fys.kuleuven.be/ster/research-projects/nott/nott-asgard/",
+      "startDate": "2017",
+      "endDate": "present"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "position": "Principal Investigator",
+      "organization": "ESA space mission concept for biosignatures",
+      "startDate": "2016",
+      "endDate": ""
+    },
+    {
+      "position": "Deputy PI",
+      "organization": "Large Binocular Telescope Interferometer",
+      "url": "https://www.jpl.nasa.gov/missions/large-binocular-telescope-interferometer-lbti/",
+      "startDate": "2015",
+      "endDate": "2016"
+    },
+    {
+      "position": "Instrument Scientist",
+      "organization": "Large Binocular Telescope Interferometer",
+      "startDate": "2012",
+      "endDate": "2016"
+    },
+    {
+      "position": "Night Astronomer",
+      "organization": "Large Binocular Telescope Interferometer",
+      "startDate": "2012",
+      "endDate": "2016",
+      "summary": "150+ observing nights"
+    },
+    {
+      "position": "Fizeau Visitor",
+      "organization": "Institut de Plan\u00e9tologie et d'Astrophysique de Grenoble",
+      "startDate": "2007",
+      "endDate": "2012",
+      "summary": "Visits in 2007, 2010, and 2012"
+    },
+    {
+      "position": "External Expert",
+      "organization": "Darwin/TPF project for ESA/ESTEC and NASA/JPL",
+      "startDate": "2005",
+      "endDate": "2008"
+    },
+    {
+      "position": "Chairman",
+      "organization": "Satellite meeting at Pathways to Habitable Planets conference",
+      "startDate": "2015",
+      "endDate": "2015"
+    },
+    {
+      "position": "Workshop Organizer",
+      "organization": "Various consortium and project meetings",
+      "startDate": "2020",
+      "endDate": "2020"
     }
   ],
-  "publications": [
+  "community_service": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "position": "Committee Member",
+      "organization": "ESO UC",
+      "startDate": "2025",
+      "endDate": "present"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "position": "Coordinator",
+      "organization": "Belgian VLTI expertise center",
+      "startDate": "2018",
+      "endDate": "present"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "position": "Panel Member",
+      "organization": "ESO OPC",
+      "startDate": "2017",
+      "endDate": "2018"
+    },
+    {
+      "position": "Referee",
+      "organization": "Major astronomy journals",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "position": "ULi\u00e8ge Representative",
+      "organization": "Belgian National ESO Committee",
+      "startDate": "2016",
+      "endDate": "present"
+    },
+    {
+      "position": "Outreach Participant/Organizer",
+      "organization": "Science Spring Break (school science meeting)",
+      "startDate": "2006",
+      "endDate": "2009"
+    },
+    {
+      "position": "Outreach Participant/Organizer",
+      "organization": "Science Spring Break (school science meeting)",
+      "startDate": "2016",
+      "endDate": "present"
+    },
+    {
+      "position": "Invited Lecturer",
+      "organization": "General public conferences",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Li\u00e8ge, Paris, Lyon, Tucson"
     }
   ],
   "languages": [
@@ -153,15 +324,7 @@
     {
       "name": "Astrophysics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Exoplanets",
-        "Planet formation",
-        "Exozodiacal dust",
-        "Instrumentation",
-        "Interferometry",
-        "Direct imaging",
-        "Space missions"
-      ]
+      "keywords": ["Exoplanets", "Planet formation", "Exozodiacal dust", "Instrumentation", "Interferometry", "Direct imaging", "Space missions"]
     }
   ]
 }
