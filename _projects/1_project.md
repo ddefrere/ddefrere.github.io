@@ -6,5 +6,5 @@ img: assets/img/vlti.jpg
 importance: 1
 category: work
 related_publications: true
-external_link: https://fys.kuleuven.be/ster/research-projects/nott/nott-asgard/
+redirect: https://fys.kuleuven.be/ster/research-projects/nott/nott-asgard/
 ---
