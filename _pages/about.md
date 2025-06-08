@@ -8,10 +8,10 @@ profile:
   align: right
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Celetijnenlaan 200D</p>
-    <p>3001 Leuven</p>
-    <p>Belgium</p>
+  #more_info: >
+  #<p>Celetijnenlaan 200D</p>
+  #<p>3001 Leuven</p>
+  #<p>Belgium</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an astronomy professor and researcher at the <a href="https://fys.kuleuven.be/ster"> Institute  of Astronomy </a> of <a href="https://www.kuleuven.be/kuleuven/"> KU Leuven </a> in Belgium, where I work towards finding scientific answers to some of the most intriguing questions about our universe. My research background covers the entire process of observational astronomy, from instrument development and commissioning to data reduction and acquisition software, observations, data interpretation, and publication of results. I currently teach two classes on Planetary systems and . 
+I am an astronomy professor and researcher at the <a href="https://fys.kuleuven.be/ster"> Institute of Astronomy </a> of <a href="https://www.kuleuven.be/kuleuven/"> KU Leuven </a> in Belgium, where I work towards finding scientific answers to some of the most intriguing questions about our universe. My research background covers the entire process of observational astronomy, from instrument development and commissioning to data reduction and acquisition software, observations, data interpretation, and publication of results. I currently teach two classes on <a target="_blank" href="https://onderwijsaanbod.kuleuven.be/syllabi/e/G0I52AE.htm#activetab=doelstellingen_idp1983744"> Planetary Systems </a> and <a target="_blank" href="https://onderwijsaanbod.kuleuven.be/syllabi/n/G0P40AN.htm#activetab=doelstellingen_idp1493952"> Observational Techniques in Astronomy </a>.
