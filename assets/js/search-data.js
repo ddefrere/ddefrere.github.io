@@ -131,7 +131,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/defrere_denis", "_blank");
+          window.open("https://www.linkedin.com/in/denis-defrere", "_blank");
         },
       },{
         id: 'social-scholar',
