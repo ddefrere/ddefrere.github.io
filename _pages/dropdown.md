@@ -1,11 +1,15 @@
 ---
 layout: page
-title: submenus
+title: More
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Jobs
+    permalink: /jobs/
+  - title: Press
+    permalink: /press/
+  - title: Team
+    permalink: /profiles/
   - title: divider
 ---
