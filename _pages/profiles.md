@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: page
 permalink: /profiles/
 title: Team
 description: List of current and past team members
@@ -60,8 +60,8 @@ nav_order: 7
 <div>	
     <h3>Visiting scholars</h3>  
     <ul>
-        <li> Mike Ireland </li>
-        <li> Guillermo Martin </li>
-        <li> Ji Wang </li>                    
+        <li> Mike Ireland (May 2025)</li>
+        <li> Guillermo Martin (September 2024)  </li>
+        <li> Ji Wang (June 2023) </li>                    
     </ul>
 </div>
