@@ -17,4 +17,4 @@ nav_order: 4
         <li> Instrument scientist and PhD positions in infrared interferometry and exoplanet science (2020) <a target="_blank" href="https://jobregister.aas.org/ad/d3b567ea"> link </a> </li>
         <li> Postdoctoral Researcher in instrumentation and exoplanet science (2018) <a target="_blank" href="https://jobregister.aas.org/ad/9cd27c2d"> link </a> </li>                        
     </ul>
-</div> 
+</div>
