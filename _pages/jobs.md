@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Jobs/
+permalink: /jobs/
 title: Jobs
 description: List of jobs
 nav: false
