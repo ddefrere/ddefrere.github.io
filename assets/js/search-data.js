@@ -44,12 +44,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-jobs",
+              title: "Jobs",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/jobs/";
+              },
+            },{id: "dropdown-press",
+              title: "Press",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/press/";
+              },
+            },{id: "dropdown-team",
+              title: "Team",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/profiles/";
               },
             },{id: "books-the-godfather",
           title: 'The Godfather',
