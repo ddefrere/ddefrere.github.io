@@ -14,8 +14,9 @@ nav_order: 7
         <li> Muhammad Salman (control engineer, 2022-present)</li>	
         <li> Kwinten Missiaen (software engineer, 2022-present) </li>	
         <li> Gert Raskin (2020-present) </li>
+        <li> Johan Morren (Mechanical engineer, 2020-present) </li>
         <li> Clio Gielen (project manager, 2020-present) </li>
-        <li> Alexandra Mazzolli (optical engineer, 2020-present) </li>                                  
+        <li> Alexandra Mazzoli (optical engineer, 2020-present) </li>                                  
     </ul>
 </div>
 
