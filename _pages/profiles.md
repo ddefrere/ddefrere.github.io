@@ -8,7 +8,7 @@ nav_order: 7
 ---
 
 <div>	
-    <h3>Engineers and managers</h3>
+    <h3>Technical staff and managers</h3>
     <ul>
         <li> Wannes Verstraeten (electronics engineer, 2025-present) </li> 
         <li> Muhammad Salman (control engineer, 2022-present)</li>	
