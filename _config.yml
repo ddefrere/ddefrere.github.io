@@ -9,7 +9,7 @@ last_name: Defrère
 contact_note: >
   Professor of Astronomy at KU Leuven, Belgium.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Professor of Astronomy at KU Leuven
+  Denis Defrère is an astronomy professor and researcher focusing on infrared instrumentation, high-contrast imaging, and exoplanets. Visit his website for more information.
 footer_text: >
   Based on <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
