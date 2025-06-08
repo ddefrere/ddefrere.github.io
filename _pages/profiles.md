@@ -1,28 +1,67 @@
 ---
 layout: profiles
 permalink: /profiles/
-title: people
+title: Team
 description: List of current and past team members
 nav: false
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+<div>	
+    <h3>Engineers and managers</h3>
+    <ul>
+        <li> Wannes Verstraeten (electronics engineer, 2025-present) </li> 
+        <li> Muhammad Salman (control engineer, 2022-present)</li>	
+        <li> Kwinten Missiaen (software engineer, 2022-present) </li>	
+        <li> Gert Raskin (2020-present) </li>
+        <li> Clio Gielen (project manager, 2020-present) </li>
+        <li> Alexandra Mazzolli (optical engineer, 2020-present) </li>                                  
+    </ul>
+</div>
+
+<div>	
+    <h3>Postdoctoral Researchers</h3>
+    <ul>
+        <li> Peter Chingaipe (2024-present) </li>
+        <li> Romain Laugier (2020-present)</li>	
+        <li> Marc-Antoine Martinod (2022-2025) </li>	
+        <li> Azzurra Bigioli (2021-2023) </li>                              
+    </ul>
+</div>
+
+<div>	
+    <h3>PhD students</h3>    
+    <ul>
+        <li> Nuno Pereira (2023-present, co-supervision with Sandrine Robert) </li>
+        <li> Germain Garreau (2021-2025) </li>
+        <li> Danny Gasman (2021-2025, formerly supervised by Ioannis Argyriou) </li>
+        <li> Simon Verlinden (2021-2022) </li>
+        <li> Hélène Rousseau (2020-2025, co-supervision with Steve Ertel) </li>
+        <li> Colin Dandumont (2020-2025, co-supervision with Jérôme Loicq) </li>                      
+    </ul>
+</div>
+
+<div>	
+    <h3>Master students</h3>  
+    <ul>
+        <li> Thomas Mattheussen (2024-2025) </li>
+        <li> Noel James (2023-2024) </li>
+        <li> Luis Bala (2023-2024) </li>
+        <li> Davide Dionese (2023-2024) </li>
+        <li> Philippe Neuville (2022-2023) </li>
+        <li> Purvaja Karthikeyan (2022-2023) </li> 
+        <li> Colin Dandumont (2019-2020, co-supervision with Jérôme Loicq) </li> 
+        <li> Damien Stock (2019-2020, co-supervision with Marc Van Droogenbroeck) </li> 
+        <li> Lucas Schifano (2018-2019, co-supervision with Jérôme Loicq) </li> 
+        <li> Romain Falla (2018-2019, co-supervision with Olivier Absil) </li>                       
+    </ul>
+</div>
+
+<div>	
+    <h3>Visiting scholars</h3>  
+    <ul>
+        <li> Mike Ireland </li>
+        <li> Guillermo Martin </li>
+        <li> Ji Wang </li>                    
+    </ul>
+</div>
