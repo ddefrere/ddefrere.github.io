@@ -33,7 +33,7 @@ nav_order: 7
 <div>	
     <h3>PhD students</h3>    
     <ul>
-        <li> Nuno Pereira (2023-present, co-supervision with Sandrine Robert) </li>
+        <li> Nuno Pereira (2023-present, co-supervision with Séverine Robert) </li>
         <li> Germain Garreau (2021-2025) </li>
         <li> Danny Gasman (2021-2025, formerly supervised by Ioannis Argyriou) </li>
         <li> Simon Verlinden (2021-2022) </li>
@@ -61,8 +61,8 @@ nav_order: 7
 <div>	
     <h3>Visiting scholars</h3>  
     <ul>
-        <li> Mike Ireland (Australian National University, May 2025)</li>
-        <li> Guillermo Martin (University of Grenoble, September 2024)  </li>
-        <li> Ji Wang (Ohio State University, June 2023) </li>                    
+        <li> Prof. Mike Ireland (Australian National University, May 2025)</li>
+        <li> Prof. Guillermo Martin (University of Grenoble, September 2024)  </li>
+        <li> Prof. Ji Wang (Ohio State University, June 2023) </li>                    
     </ul>
 </div>
