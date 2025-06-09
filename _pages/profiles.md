@@ -24,9 +24,9 @@ nav_order: 7
     <h3>Postdoctoral Researchers</h3>
     <ul>
         <li> Peter Chingaipe (2024-present) </li>
-        <li> Romain Laugier (2020-present)</li>	
         <li> Marc-Antoine Martinod (2022-2025) </li>	
-        <li> Azzurra Bigioli (2021-2023) </li>                              
+        <li> Azzurra Bigioli (2021-2023) </li>       
+        <li> Romain Laugier (2020-present)</li>	                       
     </ul>
 </div>
 
