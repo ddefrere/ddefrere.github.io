@@ -76,12 +76,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-asgard-nott",
           title: 'Asgard/NOTT',
-          description: "L-band nulling interferometer for the VLTI (2020–2026)",
+          description: "Visitor L-band nulling interferometer for the VLTI (2020–2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-orp",
+          title: 'ORP',
+          description: "Opticon-Radionet Pilot project (2021-2025).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
