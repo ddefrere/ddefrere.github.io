@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Opticon 2016
-description: Design study and technology roadmap for the NOTT (formerly Hi-5) interferometer 
+description: Design study and technology roadmap for the NOTT (formerly Hi-5) interferometer
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
