@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "A growing collection of your cool projects.",
+          description: "Here is the list of my ongoing and past projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Research/";
@@ -74,7 +74,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-asgard-nott",
+          section: "News",},{id: "press-asgard-nott",
+          title: 'Asgard/NOTT',
+          description: "Visitor L-band nulling interferometer for the VLTI (2020–2026)",
+          section: "Press",handler: () => {
+              window.location.href = "/press/1_press.html";
+            },},{id: "projects-asgard-nott",
           title: 'Asgard/NOTT',
           description: "Visitor L-band nulling interferometer for the VLTI (2020–2026)",
           section: "Projects",handler: () => {
