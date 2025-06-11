@@ -7,5 +7,5 @@ description: >
 img: assets/img/vlti.jpg
 redirect: https://fys.kuleuven.be/ster/research-projects/nott/nott-asgard/
 importance: 1
-category: ongoing
+category: work
 ---
