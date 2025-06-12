@@ -89,9 +89,9 @@ ninja.data = [{
           description: "Opticon-Radionet Pilot project (2021-2025).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-opticon-2016",
-          title: 'Opticon 2016',
-          description: "Design study and technology roadmap for the NOTT (formerly Hi-5) interferometer",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{
