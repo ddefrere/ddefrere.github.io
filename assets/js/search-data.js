@@ -104,6 +104,11 @@ ninja.data = [{
           description: "VLTI and GRAVITY upgrade (2020–2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
+            },},{id: "projects-elt-metis",
+          title: 'ELT/METIS',
+          description: "ELT METIS: International Research Infrastructure (IRI, 2025–2029)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project.html";
             },},{
         id: 'social-email',
         title: 'email',
