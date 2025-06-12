@@ -34,7 +34,7 @@ nav_order: 7
     <h3>PhD students</h3>    
     <ul>
         <li> Nuno Pereira (2023-present, co-supervision with Séverine Robert) </li>
-        <li> Germain Garreau (2021-2025) </li>
+        <li> Germain Garreau (2021-2025, co-supervision with Azzurra Bigioli and Romain Laugier) </li>
         <li> Danny Gasman (2021-2025, formerly supervised by Ioannis Argyriou) </li>
         <li> Simon Verlinden (2021-2022) </li>
         <li> Hélène Rousseau (2020-2025, co-supervision with Steve Ertel) </li>
