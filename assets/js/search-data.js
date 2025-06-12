@@ -84,9 +84,9 @@ ninja.data = [{
           description: "Visitor L-band nulling interferometer for the VLTI (2020–2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-orp",
-          title: 'ORP',
-          description: "Opticon-Radionet Pilot project (2021-2025).",
+            },},{id: "projects-opticon-radionet-pilot",
+          title: 'Opticon-Radionet Pilot',
+          description: "Support and integration of Asgard/NOTT at the VLTI (2021-2025).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-",
@@ -94,6 +94,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
+            },},{id: "projects-single-spacecraft-nulling",
+          title: 'Single spacecraft nulling',
+          description: "Design study and technology roadmap for a single spacecraft nulling interferometer (2023–2026)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project.html";
             },},{
         id: 'social-email',
         title: 'email',
