@@ -6,7 +6,7 @@ description: >
   <br style="line-height:2em;" />
   <img src="/assets/img/logos/fwo.jpeg" alt="ERC logo" style=" width: auto; height: auto; max-width: 2.5em; max-height: 1.5em;" class="img-fluid rounded">
   <img src="/assets/img/logos/eso.jpg" alt="ERC logo" style=" width: auto; height: auto; max-width: 2.5em; max-height: 1.5em;" class="img-fluid rounded">
-img: assets/img/gravity.png
+img: assets/img/elt.png
 redirect: https://metis.strw.leidenuniv.nl
 importance: 3
 category: ongoing
