@@ -94,9 +94,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-single-spacecraft-nulling",
-          title: 'Single spacecraft nulling',
-          description: "Design study and technology roadmap for a single spacecraft nulling interferometer (2023–2026)",
+            },},{id: "projects-space-nulling",
+          title: 'Space nulling',
+          description: "Design study and technology roadmap for a single-spacecraft nulling interferometer (2023–2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{id: "projects-gravity",
@@ -106,7 +106,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project.html";
             },},{id: "projects-elt-metis",
           title: 'ELT/METIS',
-          description: "ELT METIS: International Research Infrastructure (IRI, 2025–2029)",
+          description: "International Research Infrastructure (IRI, 2025–2029)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
             },},{id: "projects-lbti",
