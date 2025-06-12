@@ -109,6 +109,11 @@ ninja.data = [{
           description: "ELT METIS: International Research Infrastructure (IRI, 2025–2029)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
+            },},{id: "projects-lbti",
+          title: 'LBTI',
+          description: "Large Binocular Telescope Interferometer (NASA, 2012-2020)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project.html";
             },},{
         id: 'social-email',
         title: 'email',
