@@ -99,6 +99,11 @@ ninja.data = [{
           description: "Design study and technology roadmap for a single spacecraft nulling interferometer (2023–2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
+            },},{id: "projects-gravity",
+          title: 'GRAVITY+',
+          description: "VLTI and GRAVITY upgrade (2020–2026)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project.html";
             },},{
         id: 'social-email',
         title: 'email',
