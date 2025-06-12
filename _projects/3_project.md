@@ -2,7 +2,7 @@
 layout: page
 title: Opticon 2016
 description: 
-    Design study and technology roadmap for the NOTT (formerly Hi-5) interferometer (2016-2020)
+    Design study and technology roadmap for high-contrast interferometry at the VLTI (2016-2020)
     <img src="/assets/img/logos/eu.jpg" alt="inline_image" style=" width: auto; height: auto; max-width: 2.5em; max-height: 1.5em; margin-top: 0.3em;" class="img-fluid rounded">
 img: assets/img/7.jpg
 redirect: https://unsplash.com
