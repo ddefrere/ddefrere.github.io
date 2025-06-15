@@ -7,6 +7,6 @@ description: >
   (LBT Exozodi Exoplanet Common Hunt).  The planetary system of HR8799, a young star only 30 million years old, was the first to be directly imaged, with three planets found in in 2008 and a fourth one in 2010.
 img: assets/img/hr8799.jpg
 redirect: http://www.mpia.de/news/science/2015-05-hr8799
-importance: 14
+importance: 10
 category: press
 ---

@@ -9,6 +9,6 @@ description: >
   of a giant, nearly 200-mile-tall plume (300 kilometers) rising into space, later revealed to be emanating from Loki.
 img: assets/img/conrad_2015.jpg
 redirect: https://www.nationalgeographic.com/science/article/150430-lava-lake-loki-binocular-telescope-science-astronomy
-importance: 14
+importance: 10
 category: press
 ---

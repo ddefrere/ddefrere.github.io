@@ -7,6 +7,6 @@ description: >
 	amounts of dust in the inner regions around some stars may pose an obstacle to the direct imaging of Earth-like planets in the future.
 img: assets/img/eso1435a.jpg
 redirect: http://www.eso.org/public/news/eso1435/
-importance: 16
+importance: 10
 category: press
 ---

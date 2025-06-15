@@ -7,6 +7,6 @@ description: >
 	how difficult it would be to achieve the desired results before committing to a billion-dollar space telescope mission.
 img: assets/img/Fomalhautb.jpg
 redirect: https://uanews.arizona.edu/story/astronomers-gear-up-to-discover-earth-like-planets
-importance: 17
+importance: 10
 category: press
 ---
