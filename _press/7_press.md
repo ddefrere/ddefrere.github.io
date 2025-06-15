@@ -8,7 +8,7 @@ description: >
   lake measuring around 125 miles (200 kilometers) across. The Voyager 1 spacecraft first discovered Io’s volcanism back on March 5, 1979, when it barnstormed the Jovian moon and snapped dramatic images
   of a giant, nearly 200-mile-tall plume (300 kilometers) rising into space, later revealed to be emanating from Loki.
 img: assets/img/conrad_2015.jpg
-redirect: https://news.nationalgeographic.com/2015/04/150430-lava-lake-loki-binocular-telescope-science-astronomy/
+redirect: https://www.nationalgeographic.com/science/article/150430-lava-lake-loki-binocular-telescope-science-astronomy
 importance: 14
 category: press
 ---

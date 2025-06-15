@@ -7,6 +7,6 @@ description: >
 	by the evaporation of exocomets, for the continuous supply of hot dust, and heralds new indirect tests for the presence of planets around these stars.
 img: assets/img/sig05-027_ti-a9bb6.jpg
 redirect: https://www.obspm.fr/dust-in-the-neighborhood-of-stellar-habitable.html?lang=en
-importance: 17
+importance: 18
 category: press
 ---
