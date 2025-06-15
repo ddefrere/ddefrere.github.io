@@ -79,6 +79,11 @@ ninja.data = [{
           description: "A team of international astronomers, including researchers from the KU Leuven Institute of Astronomy, has determined the mass of a black hole in the center of a galaxy formed ‘only’ 2 billion years after the Big Bang, so in the early beginnings of our 13.7 billon years-old universe. Even though the black hole has a mass larger than 300 million suns, the black hole is actually less heavy than astronomers had expected, given the mass of its host galaxy. This indicates an unexpected delay between the growth of the galaxy and its central black hole. The astronomers managed to peer back in time using the upgraded GRAVITY-instrument at the ESO Very Large Telescope Interferometer in Chile.",
           section: "Press",handler: () => {
               window.location.href = "/press/1_press.html";
+            },},{id: "press-new-discovery",
+          title: 'New Discovery',
+          description: "We discovered a previously unknown gravitational lens.",
+          section: "Press",handler: () => {
+              window.location.href = "/press/2_press.html";
             },},{id: "projects-asgard-nott",
           title: 'Asgard/NOTT',
           description: "Visitor L-band nulling interferometer for the VLTI (2020–2026)",
