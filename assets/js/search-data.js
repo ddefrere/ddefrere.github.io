@@ -74,16 +74,61 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "press-weighing-a-black-hole-in-the-early-universe",
+          section: "News",},{id: "press-",
+          title: '',
+          description: "",
+          section: "Press",handler: () => {
+              window.location.href = "/press/10_press.html";
+            },},{id: "press-",
+          title: '',
+          description: "",
+          section: "Press",handler: () => {
+              window.location.href = "/press/11_press.html";
+            },},{id: "press-weighing-a-black-hole-in-the-early-universe",
           title: 'Weighing a black hole in the early universe',
           description: "A team of international astronomers, including researchers from the KU Leuven Institute of Astronomy, has determined the mass of a black hole in the center of a galaxy formed ‘only’ 2 billion years after the Big Bang, so in the early beginnings of our 13.7 billon years-old universe. Even though the black hole has a mass larger than 300 million suns, the black hole is actually less heavy than astronomers had expected, given the mass of its host galaxy. This indicates an unexpected delay between the growth of the galaxy and its central black hole. The astronomers managed to peer back in time using the upgraded GRAVITY-instrument at the ESO Very Large Telescope Interferometer in Chile.",
           section: "Press",handler: () => {
               window.location.href = "/press/1_press.html";
-            },},{id: "press-new-discovery",
-          title: 'New Discovery',
-          description: "We discovered a previously unknown gravitational lens.",
+            },},{id: "press-launch-of-europe-39-s-largest-astronomy-network",
+          title: 'Launch of Europe&amp;#39;s largest astronomy network',
+          description: "Until now, Europe has had two major collaborative networks for ground-based astronomy, one in the optical wavelength domain and the other in the radio-wave domain. OPTICON and RadioNet have now come together to form Europe’s largest ground-based astronomy collaborative network. Launched with funding to the tune of €15 million under the H2020 programme, the project aims to harmonise observational methods and tools, and provide access to a wider range of astronomical facilities. With the new ORP funding, the Institute of Astronomy will develop a new VLTI observing mode dedicated to exoplanet research, support the VLTI expertise centres network&#39;s activities, and gather the whole VLTI community in Leuven in 2023.",
           section: "Press",handler: () => {
               window.location.href = "/press/2_press.html";
+            },},{id: "press-stellar-dust-survey-paves-way-for-exoplanet-missions",
+          title: 'Stellar Dust Survey Paves Way for Exoplanet Missions',
+          description: "Veils of dust wrapped around distant stars could make it difficult to image potentially habitable planets in those star systems. The Hunt for Observable Signatures of Terrestrial Systems, or HOSTS, survey was tasked with learning more about the effect of dust on the search for new worlds. The goal is to help guide the design of future planet-hunting missions. In a new paper published in the Astrophysical Journal, we have reported on the survey’s initial findings. Using the Large Binocular Telescope Interferometer, or LBTI, on Mount Graham in Arizona, the HOSTS survey determines the brightness of warm dust floating in the orbital planes of other stars (called exozodiacal dust). In particular, HOSTS has studied dust in nearby stars’ habitable zones, where liquid water could exist on the surface of a planet. The LBTI is five to 10 times more sensitive than the previous telescope capable of detecting exozodiacal dust, the Keck Interferometer Nuller. Among the findings detailed in the new paper, we report that a majority of Sun-like stars do not possess high levels of dust -- good news for future efforts to study potentially-habitable planets around those stars.",
+          section: "Press",handler: () => {
+              window.location.href = "/press/3_press.html";
+            },},{id: "press-waves-of-lava-seen-in-io-s-largest-volcanic-crater",
+          title: 'Waves of lava seen in Io’s largest volcanic crater',
+          description: "Taking advantage of a rare orbital alignment between two of Jupiter’s moons, Io and Europa, we have obtained an exceptionally detailed map of the largest lava lake on Io, the most volcanically active body in the solar system.  On March 8, 2015, Europa passed in front of Io, gradually blocking out light from the volcanic moon (see animation on the left). Because Europa’s surface is coated in water ice, it reflects very little sunlight at infrared wavelengths, allowing us to accurately isolate the heat emanating from volcanoes on Io’s surface. The infrared data showed that the surface temperature of Io’s massive molten lake steadily increased from one end to the other, suggesting that the lava had overturned in two waves that each swept from west to east at about a kilometer (3,300 feet) per day.",
+          section: "Press",handler: () => {
+              window.location.href = "/press/4_press.html";
+            },},{id: "press-scientists-caught-a-new-planet-forming-for-the-first-time-ever",
+          title: 'Scientists caught a new planet forming for the first time ever',
+          description: "For the first time, we have observed a planet being formed and have captured images of dust and gas particles accumulating together  to make a protoplanet in a distant solar system. The phenomenon was observed in the solar system surrounding a star called LkCa 15, located  450 light-years away from Earth. Catching a planet in the making is an exciting first because, of the nearly 3500 exoplanets we’ve so far identified, none are in the process of formation. Observations like these are crucial to test planet formation theories and improve our understanding of planet formation, which is still uncertain today.",
+          section: "Press",handler: () => {
+              window.location.href = "/press/5_press.html";
+            },},{id: "press-an-image-of-a-whole-planetary-system",
+          title: 'An image of a whole planetary system',
+          description: "Taking advantage of the unprecedented sensitivity of the Large Binocular Telescope in southeastern Arizona, we have obtained the first results from the LEECH exoplanets survey. The findings reveal new insights into the architecture of HR8799, a &quot;scaled-up&quot; version of our solar system 130 light-years from Earth. We have probed deeper than before into a planetary system 130 light-years from Earth. The observations mark the first results of a new exoplanet survey called LEECH  (LBT Exozodi Exoplanet Common Hunt).  The planetary system of HR8799, a young star only 30 million years old, was the first to be directly imaged, with three planets found in in 2008 and a fourth one in 2010.",
+          section: "Press",handler: () => {
+              window.location.href = "/press/6_press.html";
+            },},{id: "press-lava-lake-on-moon-of-jupiter-revealed-in-remarkable-detail",
+          title: 'Lava Lake on Moon of Jupiter Revealed in Remarkable Detail',
+          description: "For the first time ever, we have been able to capture detailed images of the heat rising from an active volcano on another body in the solar system. Using its twin 8.4-meter mirrors, the Large Binocular telescope observatory in Arizona managed to spy on a large lava lake on Jupiter’s moon Io, located some 500 million miles (800 million kilometers) away. The innermost moon of the gas giant, which is slightly larger than Earth’s own moon, is considered the most geologically  active body in the entire solar system. At least 300 volcanic structures dot its surface. The largest of these features is a volcanic pit named after Loki, the Norse trickster god. The depression is filled with a sulfur-encrusted  lake measuring around 125 miles (200 kilometers) across. The Voyager 1 spacecraft first discovered Io’s volcanism back on March 5, 1979, when it barnstormed the Jovian moon and snapped dramatic images of a giant, nearly 200-mile-tall plume (300 kilometers) rising into space, later revealed to be emanating from Loki.",
+          section: "Press",handler: () => {
+              window.location.href = "/press/7_press.html";
+            },},{id: "press-",
+          title: '',
+          description: "",
+          section: "Press",handler: () => {
+              window.location.href = "/press/8_press.html";
+            },},{id: "press-",
+          title: '',
+          description: "",
+          section: "Press",handler: () => {
+              window.location.href = "/press/9_press.html";
             },},{id: "projects-asgard-nott",
           title: 'Asgard/NOTT',
           description: "Visitor L-band nulling interferometer for the VLTI (2020–2026)",
