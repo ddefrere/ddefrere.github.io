@@ -74,14 +74,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "press-",
-          title: '',
-          description: "",
+          section: "News",},{id: "press-astronomers-gear-up-to-discover-earth-like-planets",
+          title: 'Astronomers Gear Up to Discover Earth-like Planets',
+          description: "As part of an international team of exoplanets hunters, we are developing a technique to detect faint dust clouds around other stars, many of which might hide Earth-like planets. Funded by NASA, our team is in the middle of carrying out tests to demonstrate the feasibility of these observations using both apertures of the Large Binocular Telescope, or LBT, in Arizona. The project aims at determining how difficult it would be to achieve the desired results before committing to a billion-dollar space telescope mission.",
           section: "Press",handler: () => {
               window.location.href = "/press/10_press.html";
-            },},{id: "press-",
-          title: '',
-          description: "",
+            },},{id: "press-dust-in-the-neighborhood-of-stellar-habitable-zones",
+          title: 'Dust in the neighborhood of stellar habitable zones',
+          description: "Our team, which includes scientists from the Paris Observatoryaris Observatory, Grenoble Observatory, the Bordeaux Observatory, and Liège University has detected the so-called “exo-zodiacal” hot dust clouds around many stars similar to the Sun. These observations highlight the universality of the phenomenon, which until now was believed to be limited to the Solar System and to a few other rare stars. This work emphasizes the key role played by the evaporation of exocomets, for the continuous supply of hot dust, and heralds new indirect tests for the presence of planets around these stars.",
           section: "Press",handler: () => {
               window.location.href = "/press/11_press.html";
             },},{id: "press-weighing-a-black-hole-in-the-early-universe",
@@ -101,12 +101,12 @@ ninja.data = [{
               window.location.href = "/press/3_press.html";
             },},{id: "press-waves-of-lava-seen-in-io-s-largest-volcanic-crater",
           title: 'Waves of lava seen in Io’s largest volcanic crater',
-          description: "Taking advantage of a rare orbital alignment between two of Jupiter’s moons, Io and Europa, we have obtained an exceptionally detailed map of the largest lava lake on Io, the most volcanically active body in the solar system.  On March 8, 2015, Europa passed in front of Io, gradually blocking out light from the volcanic moon (see animation on the left). Because Europa’s surface is coated in water ice, it reflects very little sunlight at infrared wavelengths, allowing us to accurately isolate the heat emanating from volcanoes on Io’s surface. The infrared data showed that the surface temperature of Io’s massive molten lake steadily increased from one end to the other, suggesting that the lava had overturned in two waves that each swept from west to east at about a kilometer (3,300 feet) per day.",
+          description: "Taking advantage of a rare orbital alignment between two of Jupiter’s moons, Io and Europa, we have obtained an exceptionally detailed map of the largest lava lake on Io, the most volcanically active body in the solar system. On March 8, 2015, Europa passed in front of Io, gradually blocking out light from the volcanic moon (see animation on the left). Because Europa’s surface is coated in water ice, it reflects very little sunlight at infrared wavelengths, allowing us to accurately isolate the heat emanating from volcanoes on Io’s surface. The infrared data showed that the surface temperature of Io’s massive molten lake steadily increased from one end to the other, suggesting that the lava had overturned in two waves that each swept from west to east at about a kilometer (3,300 feet) per day.",
           section: "Press",handler: () => {
               window.location.href = "/press/4_press.html";
             },},{id: "press-scientists-caught-a-new-planet-forming-for-the-first-time-ever",
           title: 'Scientists caught a new planet forming for the first time ever',
-          description: "For the first time, we have observed a planet being formed and have captured images of dust and gas particles accumulating together  to make a protoplanet in a distant solar system. The phenomenon was observed in the solar system surrounding a star called LkCa 15, located  450 light-years away from Earth. Catching a planet in the making is an exciting first because, of the nearly 3500 exoplanets we’ve so far identified, none are in the process of formation. Observations like these are crucial to test planet formation theories and improve our understanding of planet formation, which is still uncertain today.",
+          description: "For the first time, we have observed a planet being formed and have captured images of dust and gas particles accumulating together to make a protoplanet in a distant solar system. The phenomenon was observed in the solar system surrounding a star called LkCa 15, located  450 light-years away from Earth. Catching a planet in the making is an exciting first because, of the nearly 3500 exoplanets we’ve so far identified, none are in the process of formation. Observations like these are crucial to test planet formation theories and improve our understanding of planet formation, which is still uncertain today.",
           section: "Press",handler: () => {
               window.location.href = "/press/5_press.html";
             },},{id: "press-an-image-of-a-whole-planetary-system",
@@ -119,14 +119,14 @@ ninja.data = [{
           description: "For the first time ever, we have been able to capture detailed images of the heat rising from an active volcano on another body in the solar system. Using its twin 8.4-meter mirrors, the Large Binocular telescope observatory in Arizona managed to spy on a large lava lake on Jupiter’s moon Io, located some 500 million miles (800 million kilometers) away. The innermost moon of the gas giant, which is slightly larger than Earth’s own moon, is considered the most geologically  active body in the entire solar system. At least 300 volcanic structures dot its surface. The largest of these features is a volcanic pit named after Loki, the Norse trickster god. The depression is filled with a sulfur-encrusted  lake measuring around 125 miles (200 kilometers) across. The Voyager 1 spacecraft first discovered Io’s volcanism back on March 5, 1979, when it barnstormed the Jovian moon and snapped dramatic images of a giant, nearly 200-mile-tall plume (300 kilometers) rising into space, later revealed to be emanating from Loki.",
           section: "Press",handler: () => {
               window.location.href = "/press/7_press.html";
-            },},{id: "press-",
-          title: '',
-          description: "",
+            },},{id: "press-telescope-to-seek-dust-where-other-earths-may-lie",
+          title: 'Telescope To Seek Dust Where Other Earths May Lie',
+          description: "The NASA-funded Large Binocular Telescope Interferometer, or LBTI, has completed its first study of dust in the &quot;habitable zone&quot; around a star, opening a new door to finding planets like Earth. Dust is a natural byproduct of the planet-formation process, but too much of it can block our view of planets. The findings will help in the design of future space missions that have the goal of taking pictures of planets similar to Earth, called exo-Earths.",
           section: "Press",handler: () => {
               window.location.href = "/press/8_press.html";
-            },},{id: "press-",
-          title: '',
-          description: "",
+            },},{id: "press-vlti-detects-exozodiacal-light",
+          title: 'VLTI Detects Exozodiacal Light',
+          description: "By using the full power of the Very Large Telescope Interferometer, we have discovered exozodiacal light close to the habitable zones around nine nearby stars. This light is starlight reflected from dust created as the result of collisions between asteroids, and the evaporation of comets. The presence of such large amounts of dust in the inner regions around some stars may pose an obstacle to the direct imaging of Earth-like planets in the future.",
           section: "Press",handler: () => {
               window.location.href = "/press/9_press.html";
             },},{id: "projects-asgard-nott",
