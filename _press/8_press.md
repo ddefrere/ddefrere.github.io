@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Telescope To Seek Dust Where Other Earths May Lie
+title: Telescope To Seek Dust Where Other Earths May Lie
 description: >
     The NASA-funded Large Binocular Telescope Interferometer, or LBTI, has completed its first study of dust in the "habitable zone" around a star, opening a new door to finding planets like Earth.
 	Dust is a natural byproduct of the planet-formation process, but too much of it can block our view of planets. The findings will help in the design of future space missions that have the goal of 

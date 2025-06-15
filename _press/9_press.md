@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  VLTI Detects Exozodiacal Light
+title: VLTI Detects Exozodiacal Light
 description: >
     By using the full power of the Very Large Telescope Interferometer, we have discovered exozodiacal light close to the habitable zones around nine nearby stars. 
 	This light is starlight reflected from dust created as the result of collisions between asteroids, and the evaporation of comets. The presence of such large

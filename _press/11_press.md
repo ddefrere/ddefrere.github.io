@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Dust in the neighborhood of stellar habitable zones
+title: Dust in the neighborhood of stellar habitable zones
 description: >
     Our team, which includes scientists from the Paris Observatoryaris Observatory, Grenoble Observatory, the Bordeaux Observatory, and Liège University has detected the so-called “exo-zodiacal” hot dust clouds around many stars 
 	similar to the Sun. These observations highlight the universality of the phenomenon, which until now was believed to be limited to the Solar System and to a few other rare stars. This work emphasizes the key role played
