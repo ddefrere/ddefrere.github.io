@@ -33,9 +33,10 @@ nav_order: 7
 <div>	
     <h3>PhD students</h3>    
     <ul>
+        <li> Thomas Mattheussen (2025-present, co-supervision with Romain Laugier) </li>
         <li> Nuno Pereira (2023-present, co-supervision with Séverine Robert) </li>
         <li> Germain Garreau (2021-2025, co-supervision with Azzurra Bigioli and Romain Laugier) </li>
-        <li> Danny Gasman (2021-2025, formerly supervised by Ioannis Argyriou) </li>
+        <li> Danny Gasman (2021-2025, supervised by Ioannis Argyriou) </li>
         <li> Simon Verlinden (2021-2022, co-supervision with Romain Laugier) </li>
         <li> Hélène Rousseau (2020-2025, co-supervision with Steve Ertel) </li>
         <li> Colin Dandumont (2020-2025, co-supervision with Jérôme Loicq) </li>                      
