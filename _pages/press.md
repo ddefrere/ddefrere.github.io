@@ -2,7 +2,7 @@
 layout: page
 title: Press
 permalink: /press/
-description: Here is a list of my press releases
+description: 
 nav: false
 nav_order: 3
 display_categories: press
