@@ -2,7 +2,7 @@
 layout: page
 title: Press
 permalink: /press/
-description: 
+description:
 nav: false
 nav_order: 3
 display_categories: press
