@@ -46,6 +46,7 @@ nav_order: 7
 <div>	
     <h3>Master students</h3>  
     <ul>
+        <li> Alen Kuriakose (2025-2026, co-supervision with Peter Chingaipe) </li>
         <li> Thomas Mattheussen (2024-2025, co-supervision with Germain Garreau) </li>
         <li> Noel James (2023-2024) </li>
         <li> Luis Bala (2023-2024, co-supervision with Maddalena Regianni) </li>
