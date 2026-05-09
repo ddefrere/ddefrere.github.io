@@ -46,14 +46,14 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Associate Researcher
-      institution: University of Liege, Liege, belgium
+      institution: University of Liège, Liège, Belgium
       year: 2016-2020
       description:
         - Description 1.
         - Description 2.
 
     - title: Associate Researcher
-      institution: University of Arizona, Tucson, United-States
+      institution: University of Arizona, Tucson, United States
       year: 2012-2016
       description:
         - Description 1.
@@ -63,17 +63,6 @@
       institution: Max Planck Institute for Radio Astronomy, Bonn, Germany
       year: 2010-2012
       description:
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
