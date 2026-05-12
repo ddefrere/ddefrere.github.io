@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "",
+          description: "Peer-reviewed articles and conference proceedings from Denis Defrère’s group and collaborators, with search and BibTeX-backed bibliography.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Publications/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "Curriculum vitae — positions, education, awards, and selected activities (JSON Resume; PDF download available).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
