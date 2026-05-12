@@ -78,9 +78,14 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
-# For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-# After pasting your verification content below, set enable_google_verification: true (same section as enable_bing_verification).
-google_site_verification: # your google-site-verification ID (Google Search Console)
+# Google Search Console — https://support.google.com/webmasters/answer/9008080
+# Option A (recommended): add repo secret GOOGLE_SITE_VERIFICATION (the meta "content" string only).
+#     Production builds inject it via _plugins/google-site-verification-from-env.rb (no token in git).
+# Option B: paste the same string below and set enable_google_verification: true (~line 337).
+# After the site deploys: Search Console → verify → Sitemaps → submit:
+#     https://www.denis-defrere.com/sitemap.xml
+# (robots.txt already references this sitemap; jekyll-sitemap generates it.)
+google_site_verification: # used when not set from GOOGLE_SITE_VERIFICATION env
 bing_site_verification: # put your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
