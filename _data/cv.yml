@@ -1,3 +1,6 @@
+# Primary CV source for this site: assets/json/resume.json (jekyll_get_json in _config.yml).
+# This file is only used if that JSON is unavailable. Keep it aligned with the live CV when you edit one or the other.
+
 - title: General Information
   type: map
   contents:
@@ -12,25 +15,12 @@
     - title: PhD
       institution: University of Liège, Liège, Belgium
       year: 2009
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Master in Sciences (DEA)
       institution: University of Liège, Liège, Belgium
       year: 2007
-      description:
-        - Description 1.
-        - Description 2.
     - title: Civil Engineering in Physics (Master)
       institution: University of Liège, Liège, Belgium
       year: 2005
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
@@ -38,45 +28,28 @@
     - title: Professor of Astronomy
       institution: Institute of Astronomy, KU Leuven, Leuven, Belgium
       year: 2020 - now
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Associate Researcher
       institution: University of Liège, Liège, Belgium
       year: 2016-2020
-      description:
-        - Description 1.
-        - Description 2.
-
     - title: Associate Researcher
       institution: University of Arizona, Tucson, United States
       year: 2012-2016
-      description:
-        - Description 1.
-        - Description 2.
-
     - title: Associate Researcher
       institution: Max Planck Institute for Radio Astronomy, Bonn, Germany
       year: 2010-2012
-      description:
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Infrared instrumentation and high-contrast imaging
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Interferometry and VLTI instrumentation
+        - Exoplanet detection and characterisation
+    - title: Science with future ELT instruments
       items:
-        - Description 1.
-        - Description 2.
+        - METIS and ground-based infrared astronomy
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "<u>Hobbies:</u> Running and chess."

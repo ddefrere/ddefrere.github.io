@@ -12,11 +12,11 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Denis Defrère is an astronomy professor and researcher focusing on infrared instrumentation, high-contrast imaging, and exoplanets. Visit his website for more information.
 footer_text: >
   Based on <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Denis Defrère, KU Leuven, astronomy, exoplanets, high-contrast imaging, infrared instrumentation, VLTI, interferometry, ESO, Asgard NOTT, SCIFY, GRAVITY+, METIS, ELT
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://ddefrere.github.io # the base hostname & protocol for your site
+url: https://www.denis-defrere.com # canonical site URL (matches CNAME); GitHub Pages also serves ddefrere.github.io
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -63,9 +63,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: https://www.denis-defrere.com/assets/img/profile.jpeg # site-wide default for social previews (absolute URL)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -79,6 +79,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
+# After pasting your verification content below, set enable_google_verification: true (same section as enable_bing_verification).
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # put your bing-site-verification ID (Bing Webmaster)
 

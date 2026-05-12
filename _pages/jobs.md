@@ -2,7 +2,7 @@
 layout: page
 permalink: /jobs/
 title: Jobs
-description:
+description: Past job advertisements and calls from the group (VLTI instrumentation, exoplanet imaging, software and electronics roles).
 nav: false
 nav_order: 4
 ---

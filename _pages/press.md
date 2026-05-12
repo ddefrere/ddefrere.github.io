@@ -2,7 +2,7 @@
 layout: page
 title: Press
 permalink: /press/
-description:
+description: Media coverage, press releases, and outreach highlights related to interferometry and exoplanet science.
 nav: false
 nav_order: 3
 display_categories: press

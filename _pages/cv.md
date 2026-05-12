@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: defrere_CV.pdf # you can also use external links here
-description:
+description: Curriculum vitae — positions, education, awards, and selected activities (JSON Resume; PDF download available).
 toc:
   sidebar: left
 ---
