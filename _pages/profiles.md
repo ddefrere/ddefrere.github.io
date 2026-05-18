@@ -65,8 +65,8 @@ nav_order: 7
 <div>	
     <h3>Visiting scholars</h3>  
     <ul>
-        <li> Prof. Mike Ireland (Australian National University, May 2025)</li>
+        <li> Prof. Mike Ireland (Australian National University, May 2025 and June 2026)</li>
         <li> Prof. Guillermo Martin (University of Grenoble, September 2024)  </li>
-        <li> Prof. Ji Wang (Ohio State University, June 2023) </li>                    
+        <li> Prof. Ji Wang (Ohio State University, June 2023 and April 2026) </li>                    
     </ul>
 </div>
