@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "Here is the list of my ongoing and past projects.",
+          description: "Ongoing and past projects in VLTI instrumentation, high-contrast interferometry, and exoplanet science.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Research/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "List of my courses",
+          description: "Graduate and bachelor courses at KU Leuven on planetary systems and observational astronomy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
@@ -31,8 +31,8 @@ ninja.data = [{
             window.location.href = "/Publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "Curriculum vitae — positions, education, awards, and selected activities (JSON Resume; PDF download available).",
+          title: "CV",
+          description: "Curriculum vitae — positions, education, awards, and selected activities (PDF download available).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -141,12 +141,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-opticon-radionet-pilot",
           title: 'Opticon-Radionet Pilot',
-          description: "Support and integration of Asgard/NOTT at the VLTI (2021-2025).",
+          description: "Support and integration of Asgard/NOTT at the VLTI (2021–2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-opticon-hi-5",
+          title: 'OPTICON / Hi-5',
+          description: "Design study and technology roadmap for high-contrast L-band interferometry at the VLTI (2016–2020)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{id: "projects-space-nulling",
@@ -166,7 +166,7 @@ ninja.data = [{
               window.location.href = "/projects/6_project.html";
             },},{id: "projects-lbti",
           title: 'LBTI',
-          description: "Large Binocular Telescope Interferometer (NASA, 2012-2020)",
+          description: "Large Binocular Telescope Interferometer (NASA, 2012–2020)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{
