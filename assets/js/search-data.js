@@ -63,18 +63,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
+            },},{id: "news-dancing-on-the-edge-of-a-black-hole-meet-s301",
+          title: 'Dancing on the edge of a black hole: Meet S301',
+          description: "GRAVITY+ has found S301, a faint star on an extreme orbit around Sagittarius A* that is sensitive to the spin of the Milky Way&#39;s central black hole.",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "press-astronomers-gear-up-to-discover-earth-like-planets",
+              window.location.href = "/news/s301.html";
+            },},{id: "press-astronomers-gear-up-to-discover-earth-like-planets",
           title: 'Astronomers Gear Up to Discover Earth-like Planets',
           description: "As part of an international team of exoplanets hunters, we are developing a technique to detect faint dust clouds around other stars, many of which might hide Earth-like planets. Funded by NASA, our team is in the middle of carrying out tests to demonstrate the feasibility of these observations using both apertures of the Large Binocular Telescope, or LBT, in Arizona. The project aims at determining how difficult it would be to achieve the desired results before committing to a billion-dollar space telescope mission.",
           section: "Press",handler: () => {
