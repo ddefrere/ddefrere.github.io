@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Graduate and bachelor courses at KU Leuven on planetary systems and observational astronomy.",
+          description: "Graduate courses at KU Leuven on planetary systems and observational astronomy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
