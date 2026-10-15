@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Research/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Curriculum vitae — positions, education, awards, and selected activities (PDF download available).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Graduate and bachelor courses at KU Leuven on planetary systems and observational astronomy.",
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/Publications/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum vitae — positions, education, awards, and selected activities (PDF download available).",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "dropdown-jobs",
               title: "Jobs",
