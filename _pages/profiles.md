@@ -48,6 +48,8 @@ People in the group at KU Leuven and collaborators, spanning instrumentation, so
 <div>
     <h3>Master students</h3>
     <ul>
+        <li>Robbe Elsen (2026–2027)</li>
+        <li>Akhila (2026–2027)</li>
         <li>Jingyi Ping (2025–2026; co-supervision with Paola Pinilla, UCL)</li>
         <li>Alen Kuriakose (2025–2026; co-supervision with Peter Chingaipe)</li>
         <li>Thomas Mattheussen (2024–2025; co-supervision with Germain Garreau)</li>
