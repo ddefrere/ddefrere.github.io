@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Research/";
           },
-        },{id: "nav-group",
-          title: "Group",
-          description: "Members of the KU Leuven group working on VLTI instrumentation, nulling interferometry, and exoplanet science.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/group/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
