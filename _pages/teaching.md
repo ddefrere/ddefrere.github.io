@@ -8,7 +8,7 @@ nav_order: 3
 
 Courses I teach or supervise at KU Leuven, with links to the official programme pages.
 
-### Planetary Systems (Master 1–2)
+### Planetary Systems (Master)
 
 Formation and evolution of planetary systems, from solar-system dynamics to exoplanets, debris disks, and astrobiology. 6 ECTS. <a target="_blank" href="https://onderwijsaanbod.kuleuven.be/syllabi/e/G0I52AE.htm#activetab=doelstellingen_idp1983744">KU Leuven website</a>
 
@@ -25,7 +25,7 @@ Formation and evolution of planetary systems, from solar-system dynamics to exop
     <li><strong>L9</strong> — Life in planetary systems</li>
 </ul>
 
-### Observational Techniques in Astronomy (Master 1–2)
+### Observational Techniques in Astronomy (Master)
 
 Physical and statistical bases of modern astronomical instrumentation, from coordinate systems and photometry to telescopes, spectroscopy, interferometry, and detectors. Students complete two projects (SED modelling and HERMES data analysis). 6 ECTS. <a target="_blank" href="https://onderwijsaanbod.kuleuven.be/syllabi/e/G0I45AE.htm#activetab=doelstellingen_idp1079968">KU Leuven website</a>
 
