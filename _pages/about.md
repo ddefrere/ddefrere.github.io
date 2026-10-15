@@ -33,4 +33,6 @@ My scientific interests focus on developing and deploying cutting-edge instrumen
 
 In parallel, I currently serve as Belgium’s representative on the <a href="https://www.eso.org/public/about-eso/committees/uc/uc2026.html">ESO User Committee</a>, where I work to ensure the scientific community’s needs are reflected in ESO’s operations and strategic planning. I also coordinate the <a href="https://fys.kuleuven.be/ster/projects/belgian-vlti-expertise-centre">Belgian VLTI expertise center</a> and the VLTI joint research activities within the Horizon 2020-funded <a target="_blank" href="https://www.orp-h2020.eu">Opticon RadioNet Pilot</a> (ORP) project, leading efforts to improve access to and user support for the VLTI.
 
-Outside of astrophysics, I enjoy running (<a target="_blank" href="https://www.betrail.run/runner/defrere.denis/overview">betrail</a>) and playing chess.
+Outside of astrophysics, I enjoy trail running (on <a target="_blank" href="https://www.betrail.run/runner/defrere.denis/overview">Betrail</a>) and playing chess.
+
+Feel free to reach out at <a href="mailto:denis.defrere@kuleuven.be">denis.defrere@kuleuven.be</a> for collaborations, student inquiries, or press.
