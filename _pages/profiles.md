@@ -39,7 +39,7 @@ People in the group at KU Leuven and collaborators, spanning instrumentation, so
         <li>Nuno Pereira — The EnVision/VenSpec-H instrument: Future observations of the Venusian atmosphere and its links with exoplanets (2023–present; co-supervision with Séverine Robert)</li>
         <li>Germain Garreau — Nulling interferometry: from exozodiacal dust with the LBTI to exoplanets with Asgard/NOTT at the VLTI (2021–2025; co-supervision with Azzurra Bigioli and Romain Laugier)</li>
         <li>Danny Gasman — Towards resolving planet formation in action with JWST-MIRI: In-flight calibration of MIRI/MRS and its applications to the study of water in protoplanetary disks (2021–2025; supervised by Ioannis Argyriou)</li>
-        <li>Simon Verlinden — interferometry (2021–2022; co-supervision with Romain Laugier)</li>
+        <li>Simon Verlinden — Advanced data reduction for 4-beam nulling interferometry (2021–2022; co-supervision with Romain Laugier)</li>
         <li>Hélène Rousseau — Optimization of thermal background suppression through Principal Component Analysis: Application to nulling interferometric observations of warm exozodiacal dust (2020–2025; co-supervision with Steve Ertel)</li>
         <li>Colin Dandumont — Exoplanet detection yield with nulling interferometry (2020–2025; co-supervision with Jérôme Loicq)</li>
     </ul>
