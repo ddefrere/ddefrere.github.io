@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Research/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum vitae — positions, education, awards, and selected activities (PDF download available).",
+        },{id: "nav-group",
+          title: "Group",
+          description: "Members of the KU Leuven group working on VLTI instrumentation, nulling interferometry, and exoplanet science.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/group/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -30,12 +30,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Teaching/";
           },
+        },{id: "nav-talks",
+          title: "Talks",
+          description: "Invited talks on nulling interferometry, VLTI instrumentation, and exoplanet imaging.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "nav-publications",
           title: "Publications",
           description: "Peer-reviewed articles and conference proceedings from Denis Defrère’s group and collaborators, with search and BibTeX-backed bibliography.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Publications/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Curriculum vitae — positions, education, awards, and selected activities (PDF download available).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "dropdown-jobs",
               title: "Jobs",
@@ -63,11 +77,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "news-placeholder-group-milestone",
+          title: 'Placeholder: group milestone',
+          description: "Placeholder news item for a group milestone in instrumentation or student training.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-06-milestone.html";
             },},{id: "news-dancing-on-the-edge-of-a-black-hole-meet-s301",
           title: 'Dancing on the edge of a black hole: Meet S301',
           description: "GRAVITY+ has found S301, a faint star on an extreme orbit around Sagittarius A* that is sensitive to the spin of the Milky Way&#39;s central black hole.",
           section: "News",handler: () => {
               window.location.href = "/news/s301.html";
+            },},{id: "news-placeholder-recent-paper-on-high-contrast-interferometry",
+          title: 'Placeholder: recent paper on high-contrast interferometry',
+          description: "Placeholder news item for a recent paper on high-contrast interferometry and exoplanet imaging.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-paper.html";
+            },},{id: "news-placeholder-upcoming-invited-talk",
+          title: 'Placeholder: upcoming invited talk',
+          description: "Placeholder news item for an upcoming invited talk on VLTI instrumentation.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-talk.html";
             },},{id: "press-astronomers-gear-up-to-discover-earth-like-planets",
           title: 'Astronomers Gear Up to Discover Earth-like Planets',
           description: "As part of an international team of exoplanets hunters, we are developing a technique to detect faint dust clouds around other stars, many of which might hide Earth-like planets. Funded by NASA, our team is in the middle of carrying out tests to demonstrate the feasibility of these observations using both apertures of the Large Binocular Telescope, or LBT, in Arizona. The project aims at determining how difficult it would be to achieve the desired results before committing to a billion-dollar space telescope mission.",
