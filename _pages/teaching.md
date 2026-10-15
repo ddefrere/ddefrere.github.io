@@ -49,19 +49,19 @@ Physical and statistical bases of modern astronomical instrumentation, from coor
 Essential methods and concepts of modern astronomy: public data archives, first-order calibration and data reduction, modelling, and the literature tools used to write reports. Theory is paired with practical exercises. Shared with Prof. Hugues Sana. 6 ECTS. <a target="_blank" href="https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Z38A">KU Leuven website</a>
 
 <ul>
-    <li><strong>Introduction</strong></li>
-    <li><strong>Telescopes 1</strong></li>
-    <li><strong>Telescopes 2</strong></li>
-    <li><strong>Detectors 1</strong></li>
-    <li><strong>Detectors 2</strong></li>
-    <li><strong>Photometry 1</strong></li>
-    <li><strong>Photometry 2</strong></li>
-    <li><strong>Spectroscopy 1</strong></li>
-    <li><strong>Spectroscopy 2</strong></li>
-    <li><strong>Models</strong></li>
-    <li><strong>Planets 1</strong></li>
-    <li><strong>Planets 2</strong></li>
-    <li><strong>Simulations</strong></li>
+    <li><strong>L1</strong> — Introduction</li>
+    <li><strong>L2</strong> — Telescopes (part 1)</li>
+    <li><strong>L3</strong> — Telescopes (part 2)</li>
+    <li><strong>L4</strong> — Detectors (part 1)</li>
+    <li><strong>L5</strong> — Detectors (part 2)</li>
+    <li><strong>L6</strong> — Photometry (part 1)</li>
+    <li><strong>L7</strong> — Photometry (part 2)</li>
+    <li><strong>L8</strong> — Spectroscopy (part 1)</li>
+    <li><strong>L9</strong> — Spectroscopy (part 2)</li>
+    <li><strong>L10</strong> — Models</li>
+    <li><strong>L11</strong> — Planets (part 1)</li>
+    <li><strong>L12</strong> — Planets (part 2)</li>
+    <li><strong>L13</strong> — Simulations</li>
 </ul>
 
 ### Bachelor projects
