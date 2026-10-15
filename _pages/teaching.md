@@ -4,7 +4,7 @@ permalink: /Teaching/
 title: Teaching
 description: Graduate and bachelor courses at KU Leuven on planetary systems and observational astronomy.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 Courses I teach or supervise at KU Leuven, with links to the official programme pages.
