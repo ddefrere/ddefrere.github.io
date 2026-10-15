@@ -22,8 +22,8 @@ module Jekyll
       "User-Agent" => USER_AGENT,
       "Accept" => "text/html,application/xhtml+xml;q=0.9,*/*;q=0.8",
       "Accept-Language" => "en-US,en;q=0.9",
-      read_timeout: 12,
-      open_timeout: 8
+      read_timeout: 6,
+      open_timeout: 4
     }.freeze
 
     def generate(site)
@@ -39,7 +39,17 @@ module Jekyll
     end
 
     def fetch_metrics(user, cache)
-      first = parse_profile(fetch_profile(user, 0, 100))
+      html = fetch_direct(profile_url(user, 0, 100))
+      if html.to_s.empty?
+        if cache_complete?(cache)
+          Jekyll.logger.warn "Scholar metrics:", "Scholar blocked this host; using cached snapshot"
+          return {}
+        end
+        html = fetch_via_proxy(profile_url(user, 0, 100))
+        html = fetch_direct(wayback_url(user)) if html.to_s.empty?
+      end
+
+      first = parse_profile(html)
       return {} if first.nil? || first[:citations].to_i <= 0
 
       metrics = {
@@ -60,8 +70,7 @@ module Jekyll
 
       cached = cache["publications"].to_i
       if cached > 100
-        start = (cached / 100) * 100
-        later = parse_profile(fetch_profile(user, start, 100))
+        later = parse_profile(fetch_direct(profile_url(user, (cached / 100) * 100, 100)))
         return later[:page_end] if later && last_page?(later)
       end
 
@@ -71,27 +80,31 @@ module Jekyll
       nil
     end
 
-    def fetch_profile(user, cstart, pagesize)
-      url = "https://scholar.google.com/citations?user=#{CGI.escape(user)}&hl=en&cstart=#{cstart}&pagesize=#{pagesize}"
-      html = fetch_html(url)
-      return html unless html.to_s.empty?
-
-      wayback = "https://web.archive.org/web/2026/https://scholar.google.com/citations?user=#{CGI.escape(user)}&hl=en"
-      fetch_html(wayback) if cstart.zero?
+    def profile_url(user, cstart, pagesize)
+      "https://scholar.google.com/citations?user=#{CGI.escape(user)}&hl=en&cstart=#{cstart}&pagesize=#{pagesize}"
     end
 
-    def fetch_html(url)
-      begin
-        return URI.open(url, OPEN_OPTIONS).read
-      rescue StandardError => e
-        Jekyll.logger.warn "Scholar metrics:", "direct fetch failed for #{url}: #{e.message}"
-      end
+    def wayback_url(user)
+      "https://web.archive.org/web/2026/https://scholar.google.com/citations?user=#{CGI.escape(user)}&hl=en"
+    end
 
+    def fetch_direct(url)
+      URI.open(url, OPEN_OPTIONS).read
+    rescue StandardError => e
+      Jekyll.logger.warn "Scholar metrics:", "direct fetch failed for #{url}: #{e.message}"
+      nil
+    end
+
+    def fetch_via_proxy(url)
       proxy = "https://api.allorigins.win/raw?url=#{CGI.escape(url)}"
       URI.open(proxy, OPEN_OPTIONS).read
     rescue StandardError => e
       Jekyll.logger.warn "Scholar metrics:", "proxy fetch failed for #{url}: #{e.message}"
       nil
+    end
+
+    def cache_complete?(cache)
+      %w[publications citations h_index].all? { |key| cache[key].to_i.positive? }
     end
 
     def parse_profile(html)
