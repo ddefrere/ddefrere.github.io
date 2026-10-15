@@ -27,11 +27,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- Update these manually or wire to Google Scholar -->
+{% assign metrics = site.data.scholar_metrics %}
+
 <div class="citation-metrics">
-  <span><strong>150</strong> publications</span>
-  <span><strong>3,500</strong> citations</span>
-  <span><strong>h-index 32</strong></span>
+  <span><strong>{{ metrics.publications | delimited }}</strong> publications</span>
+  <span><strong>{{ metrics.citations | delimited }}</strong> citations</span>
+  <span><strong>h-index {{ metrics.h_index }}</strong></span>
+  <span class="citation-source">
+    <a
+      href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}&hl=en"
+      target="_blank"
+      rel="noopener noreferrer"
+      >Google Scholar</a
+    >
+  </span>
 </div>
 
 <img src="/assets/img/logos/kul.png" alt="inline_image" style="float: left; height: 1.8lh; margin-right: 1ex; margin-top: .1lh" class="img-fluid rounded z-depth-1"> I build instruments that suppress starlight so we can see what sits next to stars. I am a professor of astronomy at the <a href="https://fys.kuleuven.be/ster">Institute of Astronomy</a>, <a href="https://www.kuleuven.be/kuleuven/">KU Leuven</a>, and was previously a Research Associate at the <a href="https://www.mpifr-bonn.mpg.de/2169/en">Max Planck Institute for Radio Astronomy</a> (2010-2012), the <a href="https://www.arizona.edu">University of Arizona</a> (2012-2016), and the <a href="https://www.uliege.be/cms/c_8699436/en/uliege">University of Liège</a> (2016-2020), both within the <a href="https://www.psilab.uliege.be/cms/c_9965343/en/psilab?id=c_9965343">PSILab</a> group and the <a href="https://www.csl.uliege.be/cms/c_10241774/en/csl?id=c_10241774">Liège Space Center</a>.
