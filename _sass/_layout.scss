@@ -48,42 +48,20 @@ body.sticky-bottom-footer {
     color: var(--global-theme-color);
     margin-right: 0.25rem;
   }
-}
 
-.erc-callout {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  margin: 1.15rem 0 1.35rem;
-  padding: 0.85rem 1rem;
-  border: 1px solid var(--global-divider-color);
-  background-color: var(--global-card-bg-color);
-  text-align: left;
-
-  img {
-    width: 3.4rem;
-    height: 3.4rem;
-    object-fit: contain;
-    flex-shrink: 0;
-  }
-
-  p {
-    margin: 0;
-  }
-
-  .erc-grant {
-    font-weight: 600;
-    letter-spacing: 0.02em;
+  .citation-source a {
     color: var(--global-theme-color);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
-  .erc-project {
-    margin-top: 0.15rem;
-  }
-
-  .erc-link {
-    margin-top: 0.25rem;
-    font-size: 0.92rem;
+  // The profile photo is a 100% float below the sm breakpoint, so keep
+  // this row out of the leftover sliver beside it.
+  @media (max-width: 575px) {
+    clear: both;
   }
 }
 
