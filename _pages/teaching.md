@@ -3,7 +3,7 @@ layout: page
 permalink: /Teaching/
 title: Teaching
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 Courses I teach or supervise at KU Leuven, with links to the official programme pages.
