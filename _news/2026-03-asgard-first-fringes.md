@@ -13,4 +13,4 @@ The [Messenger article](https://doi.eso.org/10.18727/0722-6691/5420) reports fir
 
 I am a co-author of the paper and PI of the ERC-funded SCIFY project that is building NOTT.
 
-Read [First Fringes for Asgard — Phase 1](https://doi.eso.org/10.18727/0722-6691/5420) in *The Messenger* 196 (March 2026).
+Read [First Fringes for Asgard — Phase 1](https://doi.eso.org/10.18727/0722-6691/5420) in _The Messenger_ 196 (March 2026).
