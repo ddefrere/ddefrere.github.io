@@ -13,15 +13,18 @@ Courses I teach or supervise at KU Leuven, with links to the official programme 
 
 Formation and evolution of planetary systems, from solar-system dynamics to exoplanets, debris disks, and astrobiology. 6 ECTS. <a target="_blank" href="https://onderwijsaanbod.kuleuven.be/syllabi/e/G0I52AE.htm#activetab=doelstellingen_idp1983744">KU Leuven website</a>
 
-<ol>
-    <li><strong>The two-body problem</strong> — N-body notions, elliptical motion, and the orbit in space.</li>
-    <li><strong>Overview of the solar system</strong> — orbital elements of the planets and major satellites, smaller bodies, and the Earth–Moon system.</li>
-    <li><strong>Solar-system debris</strong> — small planets, the Kuiper belt, comets, meteorites, and ring systems.</li>
-    <li><strong>Origin of the solar system</strong> — observational constraints, planet accretion, chemical diagnostics, and open questions.</li>
-    <li><strong>Exosolar planets</strong> — detection methods, census, systematics of exoplanetary systems and their host stars, formation and evolution, and observational prospects.</li>
-    <li><strong>Debris disks</strong> — detection, census, formation and evolution, and their relation to planetary systems.</li>
-    <li><strong>Astrobiology</strong> — complex chemistry in space, solar-system exploration, planetary atmospheres, the biosphere, and prospects for detecting extraterrestrial life.</li>
-</ol>
+<ul>
+    <li><strong>L1</strong> — The plurality of worlds</li>
+    <li><strong>L2</strong> — The dynamics of planetary systems (Part 1)</li>
+    <li><strong>L3</strong> — The dynamics of planetary systems (Part 2)</li>
+    <li><strong>L4</strong> — Extrasolar planets (Part 1): RV, astrometry, timing, and microlensing</li>
+    <li><strong>L5</strong> — Extrasolar planets (Part 2): exoplanet imaging (Romain Laugier)</li>
+    <li><strong>L6</strong> — Extrasolar planets (Part 3): the transit technique</li>
+    <li><strong>L7</strong> — Origin of the solar system and planet formation (Part 1)</li>
+    <li><strong>L8</strong> — Origin of the solar system and planet formation (Part 2)</li>
+    <li><strong>Group presentations</strong> — exoplanet research papers</li>
+    <li><strong>L9</strong> — Life in planetary systems</li>
+</ul>
 
 ### Observational Techniques in Astronomy (Master 1–2)
 
