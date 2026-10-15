@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Teaching/";
           },
-        },{id: "nav-talks",
-          title: "Talks",
-          description: "Invited talks on nulling interferometry, VLTI instrumentation, and exoplanet imaging.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/talks/";
-          },
         },{id: "nav-publications",
           title: "Publications",
           description: "Peer-reviewed articles and conference proceedings from Denis Defrère’s group and collaborators, with search and BibTeX-backed bibliography.",
