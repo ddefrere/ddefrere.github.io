@@ -25,17 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Graduate and bachelor courses at KU Leuven on planetary systems and observational astronomy.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
-          },
-        },{id: "nav-talks",
-          title: "Talks",
-          description: "Invited talks on nulling interferometry, VLTI instrumentation, and exoplanet imaging.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/talks/";
           },
         },{id: "nav-publications",
           title: "Publications",
