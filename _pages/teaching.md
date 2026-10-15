@@ -2,7 +2,6 @@
 layout: page
 permalink: /Teaching/
 title: Teaching
-description: Graduate and bachelor courses at KU Leuven on planetary systems and observational astronomy.
 nav: true
 nav_order: 4
 ---
@@ -47,17 +46,17 @@ Physical and statistical bases of modern astronomical instrumentation, from coor
 
 ### Astronomical Methods, Tools and Techniques (Bachelor)
 
-Essential methods and concepts of modern astronomy: public data archives, first-order calibration and data reduction, modelling, and the literature tools used to write reports. Theory is paired with practical exercises. 6 ECTS. <a target="_blank" href="https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Z38A">KU Leuven website</a>
+Essential methods and concepts of modern astronomy: public data archives, first-order calibration and data reduction, modelling, and the literature tools used to write reports. Theory is paired with practical exercises. Shared with Prof. Hugues Sana. 6 ECTS. <a target="_blank" href="https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Z38A">KU Leuven website</a>
 
 <ul>
     <li><strong>Introduction</strong></li>
     <li><strong>Telescopes 1</strong></li>
     <li><strong>Telescopes 2</strong></li>
-    <li><strong>Detectors 1</strong> — linearity</li>
-    <li><strong>Detectors 2</strong> — gain</li>
+    <li><strong>Detectors 1</strong></li>
+    <li><strong>Detectors 2</strong></li>
     <li><strong>Photometry 1</strong></li>
     <li><strong>Photometry 2</strong></li>
-    <li><strong>Spectroscopy 1</strong> — radial velocity</li>
+    <li><strong>Spectroscopy 1</strong></li>
     <li><strong>Spectroscopy 2</strong></li>
     <li><strong>Models</strong></li>
     <li><strong>Planets 1</strong></li>
