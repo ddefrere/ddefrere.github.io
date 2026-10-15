@@ -65,6 +65,13 @@ body.sticky-bottom-footer {
   }
 }
 
+// Extra air on small screens between the news list and selected papers.
+@media (max-width: 575px) {
+  .homepage-selected-publications {
+    margin-top: 3rem;
+  }
+}
+
 // Profile
 .profile {
   overflow: visible;
