@@ -36,10 +36,30 @@ Physical and statistical bases of modern astronomical instrumentation, from coor
     <li><strong>L5</strong> — Observing techniques: telescope instruments</li>
     <li><strong>L6</strong> — Observing techniques: spectroscopy</li>
     <li><strong>P2</strong> — Project 2: HERMES data analysis</li>
-    <li><strong>L7</strong> — Observing techniques: interferometry (Peter Chingaipe)</li>
+    <li><strong>L7</strong> — Observing techniques: interferometry</li>
     <li><strong>L8</strong> — Observing techniques: adaptive optics and turbulence</li>
-    <li><strong>L9</strong> — Observing techniques: detectors (Nuno Pereira)</li>
+    <li><strong>L9</strong> — Observing techniques: detectors</li>
     <li><strong>Q&amp;A</strong> — Q&amp;A session</li>
+</ul>
+
+### Astronomical Methods, Tools and Techniques (Bachelor)
+
+Essential methods and concepts of modern astronomy: public data archives, first-order calibration and data reduction, modelling, and the literature tools used to write reports. Theory is paired with practical exercises. 6 ECTS. <a target="_blank" href="https://onderwijsaanbod.kuleuven.be/syllabi/n/G0Z38A">KU Leuven website</a>
+
+<ul>
+    <li><strong>Introduction</strong></li>
+    <li><strong>Telescopes 1</strong></li>
+    <li><strong>Telescopes 2</strong></li>
+    <li><strong>Detectors 1</strong> — linearity</li>
+    <li><strong>Detectors 2</strong> — gain</li>
+    <li><strong>Photometry 1</strong></li>
+    <li><strong>Photometry 2</strong></li>
+    <li><strong>Spectroscopy 1</strong> — radial velocity</li>
+    <li><strong>Spectroscopy 2</strong></li>
+    <li><strong>Models</strong></li>
+    <li><strong>Planets 1</strong></li>
+    <li><strong>Planets 2</strong></li>
+    <li><strong>Simulations</strong></li>
 </ul>
 
 ### Bachelor projects
