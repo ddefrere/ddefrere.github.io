@@ -77,6 +77,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "news-first-fringes-for-asgard-phase-1-at-the-vlti",
+          title: 'First fringes for Asgard Phase 1 at the VLTI',
+          description: "Asgard Phase 1 has recorded first fringes on all six VLTI baselines, with Heimdallr tracking to mK ≈ 9.5, as reported in The Messenger.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-asgard-first-fringes.html";
             },},{id: "news-placeholder-group-milestone",
           title: 'Placeholder: group milestone',
           description: "Placeholder news item for a group milestone in instrumentation or student training.",
