@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Graduate and bachelor courses at KU Leuven on planetary systems and observational astronomy.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
@@ -77,31 +77,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "news-first-light-for-the-gravity-adaptive-optics",
+          title: 'First light for the GRAVITY+ adaptive optics',
+          description: "GPAO first-light commissioning shows order-of-magnitude gains in VLTI sensitivity, sky coverage, and contrast.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-gpao-first-light.html";
             },},{id: "news-first-fringes-for-asgard-phase-1-at-the-vlti",
           title: 'First fringes for Asgard Phase 1 at the VLTI',
           description: "Asgard Phase 1 has recorded first fringes on all six VLTI baselines, with Heimdallr tracking to mK ≈ 9.5, as reported in The Messenger.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-asgard-first-fringes.html";
-            },},{id: "news-placeholder-group-milestone",
-          title: 'Placeholder: group milestone',
-          description: "Placeholder news item for a group milestone in instrumentation or student training.",
+            },},{id: "news-gravity-finds-the-third-pds-70-candidate-is-dust-not-a-planet",
+          title: 'GRAVITY+ finds the third PDS 70 candidate is dust, not a planet',
+          description: "VLTI/GRAVITY+ did not recover the inner PDS 70 point source, pointing to a dust clump rather than a third protoplanet.",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-06-milestone.html";
+              window.location.href = "/news/2026-06-pds70-gravityplus.html";
+            },},{id: "news-nott-laboratory-nulling-first-dispersed-ambient-measurements",
+          title: 'NOTT laboratory nulling: first dispersed ambient measurements',
+          description: "The KU Leuven Asgard/NOTT test bench reports its first spectrally dispersed ambient nulls as the cryogenic spectrograph is integrated.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-nott-lab-nulling.html";
             },},{id: "news-dancing-on-the-edge-of-a-black-hole-meet-s301",
           title: 'Dancing on the edge of a black hole: Meet S301',
           description: "GRAVITY+ has found S301, a faint star on an extreme orbit around Sagittarius A* that is sensitive to the spin of the Milky Way&#39;s central black hole.",
           section: "News",handler: () => {
               window.location.href = "/news/s301.html";
-            },},{id: "news-placeholder-recent-paper-on-high-contrast-interferometry",
-          title: 'Placeholder: recent paper on high-contrast interferometry',
-          description: "Placeholder news item for a recent paper on high-contrast interferometry and exoplanet imaging.",
-          section: "News",handler: () => {
-              window.location.href = "/news/2026-09-paper.html";
-            },},{id: "news-placeholder-upcoming-invited-talk",
-          title: 'Placeholder: upcoming invited talk',
-          description: "Placeholder news item for an upcoming invited talk on VLTI instrumentation.",
-          section: "News",handler: () => {
-              window.location.href = "/news/2026-10-talk.html";
             },},{id: "press-astronomers-gear-up-to-discover-earth-like-planets",
           title: 'Astronomers Gear Up to Discover Earth-like Planets',
           description: "As part of an international team of exoplanets hunters, we are developing a technique to detect faint dust clouds around other stars, many of which might hide Earth-like planets. Funded by NASA, our team is in the middle of carrying out tests to demonstrate the feasibility of these observations using both apertures of the Large Binocular Telescope, or LBT, in Arizona. The project aims at determining how difficult it would be to achieve the desired results before committing to a billion-dollar space telescope mission.",
