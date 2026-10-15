@@ -7,8 +7,6 @@ nav: false
 nav_order: 7
 ---
 
-People in the group at KU Leuven and collaborators, spanning instrumentation, software, and exoplanet science.
-
 <div>
     <h3>Technical staff and managers</h3>
     <ul>
