@@ -826,6 +826,12 @@ footer.sticky-bottom {
         }
       }
 
+      .citation-count {
+        margin: 0.1rem 0 0.35rem;
+        font-size: 0.875rem;
+        color: var(--global-text-color-light);
+      }
+
       .badges {
         padding-bottom: 0.5rem;
         span {
