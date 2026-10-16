@@ -47,7 +47,7 @@ nav_order: 7
     <h3>Master students</h3>
     <ul>
         <li>Robbe Elsen — Performance and data reduction of Asgard/NOTT (2026–2027; co-supervision with Thomas Mattheussen)</li>
-        <li>Akhila — Advanced post-processing for the detection of exoplanets around alpha Cen with ELT/METIS (2026–2027; co-supervision with Olivier Absil)</li>
+        <li>Akhila Thamaravelil Abhimanue Achary — Advanced post-processing for the detection of exoplanets around alpha Cen with ELT/METIS (2026–2027; co-supervision with Olivier Absil)</li>
         <li>Jingyi Ping (2025–2026; co-supervision with Paola Pinilla, UCL)</li>
         <li>Alen Kuriakose (2025–2026; co-supervision with Peter Chingaipe)</li>
         <li>Thomas Mattheussen (2024–2025; co-supervision with Germain Garreau)</li>
