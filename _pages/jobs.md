@@ -7,7 +7,16 @@ nav: false
 nav_order: 4
 ---
 
-There are currently no open funded positions advertised here. Strong candidates interested in VLTI instrumentation, nulling interferometry, or exoplanet imaging are welcome to email a CV and a short research statement.
+Candidates interested in applying for an FWO junior or senior postdoctoral fellowship with the group, or in VLTI instrumentation, nulling interferometry, or exoplanet imaging more generally, are welcome to email a CV and a short research statement.
+
+### Open calls
+
+<div>
+    <ul>
+        <li>FWO Junior postdoctoral fellowship (3 years; deadline 16 November 2026) — <a target="_blank" href="https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/">FWO</a></li>
+        <li>FWO Senior postdoctoral fellowship (3 years; deadline 16 November 2026) — <a target="_blank" href="https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/senior-postdoctoral-fellowship/">FWO</a></li>
+    </ul>
+</div>
 
 ### Past calls
 
