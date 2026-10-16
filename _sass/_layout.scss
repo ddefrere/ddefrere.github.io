@@ -32,6 +32,33 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+.citation-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.75rem;
+  margin: 0 0 1.15rem;
+  font-size: 0.95rem;
+  color: var(--global-text-color);
+
+  span {
+    color: var(--global-text-color-light);
+  }
+
+  strong {
+    color: var(--global-theme-color);
+    margin-right: 0.25rem;
+  }
+
+  .citation-source a {
+    color: var(--global-theme-color);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 // Extra air on small screens between the news list and selected papers.
 @media (max-width: 575px) {
   .homepage-selected-publications {

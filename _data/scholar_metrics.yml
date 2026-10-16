@@ -1,0 +1,9 @@
+# Google Scholar profile snapshot for site.data.socials.scholar_userid.
+# The build plugin refreshes these when Scholar (or a proxy) is reachable.
+# publications is the profile article count, not i10-index.
+publications: 398
+citations: 8153
+h_index: 49
+i10_index: 130
+retrieved: "2026-10-15"
+source: google_scholar
