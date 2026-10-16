@@ -184,6 +184,12 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.citation %}
+      {% assign cite_n = entry.citation | plus: 0 %}
+      <div class="citation-count">
+        {% if cite_n == 1 %}1 citation{% else %}{{ cite_n }} citations{% endif %}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
