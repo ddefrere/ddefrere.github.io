@@ -11,5 +11,7 @@ children:
     permalink: /press/
   - title: Team
     permalink: /profiles/
+  - title: Students
+    permalink: /students/
   - title: divider
 ---
