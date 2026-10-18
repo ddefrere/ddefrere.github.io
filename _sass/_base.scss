@@ -23,6 +23,20 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+.erc-logo-dark {
+  display: none;
+}
+
+html[data-theme="dark"] {
+  .erc-logo-light {
+    display: none;
+  }
+
+  .erc-logo-dark {
+    display: inline;
+  }
+}
+
 table {
   td,
   th {
