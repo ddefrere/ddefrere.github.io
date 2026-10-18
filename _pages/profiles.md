@@ -11,8 +11,8 @@ nav_order: 7
     <h3>Technical staff and managers</h3>
     <ul>
         <li>Wannes Verstraeten — electronics engineer (2025–present)</li>
-        <li>Muhammad Salman — control engineer for astronomical instrumentation (2022–present)</li>
-        <li>Kwinten Missiaen — software engineer for instrument control and data systems (2022–present)</li>
+        <li>Muhammad Salman — control engineer (2022–present)</li>
+        <li>Kwinten Missiaen — software engineer (2022–present)</li>
         <li>Johan Morren — mechanical engineer (2020–present)</li>
         <li>Clio Gielen — project manager (2020–present)</li>
         <li>Gert Raskin — instrumentation expert (2020–present)</li>
