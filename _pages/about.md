@@ -35,4 +35,4 @@ In parallel, I currently serve as Belgium’s representative on the <a href="htt
 
 Outside of astrophysics, I enjoy trail running (on <a target="_blank" href="https://www.betrail.run/runner/defrere.denis/overview">Betrail</a>) and playing chess.
 
-Feel free to reach out via my <a href="https://www.kuleuven.be/wieiswie/en/person/00138182">KU Leuven who-is-who page</a> for collaborations, student inquiries, or press.
+Feel free to <a href="https://www.kuleuven.be/wieiswie/en/person/00138182">reach out</a> for collaborations, student inquiries, or press.
