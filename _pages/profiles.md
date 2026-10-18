@@ -48,19 +48,21 @@ nav_order: 7
     <ul>
         <li>Robbe Elsen — Performance and data reduction of Asgard/NOTT (2026–2027; co-supervision with Thomas Mattheussen)</li>
         <li>Akhila Thamaravelil Abhimanue Achary — Advanced post-processing for the detection of exoplanets around alpha Cen with ELT/METIS (2026–2027; co-supervision with Olivier Absil)</li>
-        <li>Jingyi Ping (2025–2026; co-supervision with Paola Pinilla, UCL)</li>
-        <li>Alen Kuriakose (2025–2026; co-supervision with Peter Chingaipe)</li>
-        <li>Thomas Mattheussen (2024–2025; co-supervision with Germain Garreau)</li>
-        <li>Noel James (2023–2024)</li>
-        <li>Luis Bala (2023–2024; co-supervision with Maddalena Reggiani)</li>
-        <li>Baoyi Zheng (2023–2024; co-supervision with Marc-Antoine Martinod)</li>
-        <li>Davide Dionese (2023–2024; co-supervision with Leen Decin)</li>
-        <li>Philippe Neuville (2022–2023; co-supervision with Romain Laugier)</li>
-        <li>Purvaja Karthikeyan (2022–2023; co-supervision with Germain Garreau)</li>
+        <li>Alen Baburaj Kuriakose — Spectral characterization of the Asgard/NOTT photonic interferometric beam combiner (2025–2026; co-supervision with Peter Chingaipe)</li>
+        <li>Jingyi Ping — Survival of protoplanetary disks under external photoevaporation (2025–2026; co-supervision with Paola Pinilla, UCL)</li>
+        <li>Loes Rutten — Characterising Earth-like exoplanets: impact of instrumental errors on the performance of space-based nulling interferometry (2024–2025)</li>
+        <li>Thomas Mattheussen — Optimizing light injection of Asgard/NOTT by coordinated tip-tilt motion (2024–2025; co-supervision with Germain Garreau)</li>
+        <li>Noel James — Warm characterization and optimization of the Asgard/NOTT HAWAII-2RG science detector (2023–2024)</li>
+        <li>Baoyi Zeng — Neural posterior estimation for data reduction in nulling interferometry (2023–2024; co-supervision with Marc-Antoine Martinod)</li>
+        <li>Luis Bala — Constraining planet formation with MARVEL: performance simulations and exoplanet yield predictions (2023–2024; co-supervision with Maddalena Reggiani)</li>
+        <li>Davide Dionese — 3D Modelling of the Mysterious Long Secondary Period of Evolved Stars Under a Binary Hypothesis (2023–2024; co-supervision with Leen Decin)</li>
+        <li>Purvaja Karthikeyan — Characterization of a photonic mid-infrared nulling beam combiner for Asgard/NOTT (2022–2023; co-supervision with Germain Garreau)</li>
+        <li>Philippe Neuville — GRAVITY+ towards fainter and higher contrast science: improved vibration control for the VLTI (2022–2023; co-supervision with Romain Laugier)</li>
+        <li>Hélène Rousseau — Deep N-band nulling interferometric imaging of α Lyrae and β Leo with the LBTI (2019–2020)</li>
         <li>Colin Dandumont (2019–2020; co-supervision with Jérôme Loicq)</li>
-        <li>Damien Stock (2019–2020; co-supervision with Marc Van Droogenbroeck)</li>
+        <li>Damien Stock — Automatic oil spill detection and monitoring with supervised machine learning and SAR remote sensing (2019–2020; co-supervision with Marc Van Droogenbroeck)</li>
         <li>Lucas Schifano (2018–2019; co-supervision with Jérôme Loicq)</li>
-        <li>Romain Falla (2018–2019; co-supervision with Olivier Absil)</li>
+        <li>Romain Falla — Performance testing and first results of the AGPM coronagraph installed on the Very Large Telescope (2016–2017; co-supervision with Olivier Absil)</li>
     </ul>
 </div>
 
