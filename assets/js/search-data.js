@@ -189,13 +189,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%64%65%66%72%65%72%65.%64%65%6E%69%73@%6B%75%6C%65%75%76%65%6E.%62%65", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
