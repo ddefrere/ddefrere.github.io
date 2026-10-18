@@ -11,8 +11,8 @@ nav_order: 7
     <h3>Technical staff and managers</h3>
     <ul>
         <li>Wannes Verstraeten — electronics engineer (2025–present)</li>
-        <li>Muhammad Salman — control engineer for astronomical instrumentation (2022–present)</li>
-        <li>Kwinten Missiaen — software engineer for instrument control and data systems (2022–present)</li>
+        <li>Muhammad Salman — control engineer (2022–present)</li>
+        <li>Kwinten Missiaen — software engineer (2022–present)</li>
         <li>Johan Morren — mechanical engineer (2020–present)</li>
         <li>Clio Gielen — project manager (2020–present)</li>
         <li>Gert Raskin — instrumentation expert (2020–present)</li>
@@ -23,10 +23,10 @@ nav_order: 7
 <div>
     <h3>Postdoctoral researchers</h3>
     <ul>
-        <li>Peter Chingaipe — interferometry and instrument science (2024–present)</li>
-        <li>Romain Laugier — VLTI / Asgard instrumentation and nulling (2020–present)</li>
-        <li>Marc-Antoine Martinod — high-contrast interferometry (2022–2025)</li>
-        <li>Azzurra Bigioli — Asgard/NOTT optical design and laboratory work (2021–2023)</li>
+        <li>Peter Chingaipe — Asgard/NOTT instrument scientist and cryogenic nulling camera (2024–present)</li>
+        <li>Romain Laugier — Asgard/NOTT instrument scientist and nulling performance optimization (2020–present)</li>
+        <li>Marc-Antoine Martinod — Asgard project manager and nulling data reduction (2022–2025)</li>
+        <li>Azzurra Bigioli — Asgard/NOTT instrument scientist and warm nulling fore optics (2021–2023)</li>
     </ul>
 </div>
 
