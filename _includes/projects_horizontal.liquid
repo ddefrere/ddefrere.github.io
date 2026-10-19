@@ -10,8 +10,8 @@
         <div class="{% if project.img %}col-md-6{% else %}col-md-12{% endif %}">
           <div class="card-body">
             <h3 class="card-title">{{ project.title }}</h3>
-            {% if project.category == "press" %}
-              <p class="card-text card-date">{{ project.date | date: "%b %d, %Y" }}</p>
+            {% if project.category == 'press' %}
+              <p class="card-text card-date">{{ project.date | date: '%b %d, %Y' }}</p>
             {% endif %}
             <p class="card-text">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
