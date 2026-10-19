@@ -7,4 +7,5 @@ img: assets/img/eso2612b_press.jpg
 redirect: https://fys.kuleuven.be/ster/news/2026/a-star-with-an-extreme-orbit-s301-feels-the-rotation-of-the-milky-ways-central-black-hole
 importance: 1
 category: press
+date: 2026-08-19
 ---

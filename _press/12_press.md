@@ -7,4 +7,5 @@ img: assets/img/eso2519a_press.jpg
 redirect: https://fys.kuleuven.be/ster/news/2025/laser-trial-run-kickstarts-new-era-of-interferometry
 importance: 2
 category: press
+date: 2025-11-10
 ---

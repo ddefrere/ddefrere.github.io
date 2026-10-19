@@ -7,4 +7,5 @@ img: assets/img/Fomalhautb.jpg
 redirect: https://astrobiology.com/2013/06/astronomers-gear-up-to-discover-earth-like-planets.html
 importance: 10
 category: press
+date: 2013-06-06
 ---

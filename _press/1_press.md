@@ -7,4 +7,5 @@ img: assets/img/ann24002a.jpg
 redirect: https://fys.kuleuven.be/ster/news/2024/weighing-a-black-hole-in-the-early-universe
 importance: 5
 category: press
+date: 2024-01-29
 ---

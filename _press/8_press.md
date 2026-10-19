@@ -7,4 +7,5 @@ img: assets/img/kepler186f.jpg
 redirect: https://www.jpl.nasa.gov/news/news.php?feature=4450
 importance: 10
 category: press
+date: 2015-01-20
 ---

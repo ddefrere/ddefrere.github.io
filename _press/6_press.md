@@ -7,4 +7,5 @@ img: assets/img/hr8799.jpg
 redirect: http://www.mpia.de/news/science/2015-05-hr8799
 importance: 10
 category: press
+date: 2015-04-20
 ---
