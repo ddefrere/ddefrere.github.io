@@ -7,4 +7,5 @@ img: assets/img/eso1435a.jpg
 redirect: http://www.eso.org/public/news/eso1435/
 importance: 10
 category: press
+date: 2014-11-03
 ---

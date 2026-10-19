@@ -7,4 +7,5 @@ img: assets/img/orp_press.jpeg
 redirect: https://fys.kuleuven.be/ster/news/2021/launch-of-europes-largest-astronomy-network
 importance: 6
 category: press
+date: 2021-03-25
 ---

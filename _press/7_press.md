@@ -7,4 +7,5 @@ img: assets/img/conrad_2015.jpg
 redirect: https://www.nationalgeographic.com/science/article/150430-lava-lake-loki-binocular-telescope-science-astronomy
 importance: 10
 category: press
+date: 2015-04-30
 ---

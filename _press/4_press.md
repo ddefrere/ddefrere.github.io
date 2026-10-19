@@ -7,4 +7,5 @@ img: assets/img/io_europa_stack-1.gif
 redirect: https://www.forbes.com/sites/briankoberlein/2017/05/10/a-jovian-eclipse-reveals-lava-lakes-on-io/#3ee453f9746e
 importance: 8
 category: press
+date: 2017-05-10
 ---

@@ -707,6 +707,12 @@ footer.sticky-bottom {
     padding-bottom: 1rem;
   }
 
+  .card-date {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    margin-bottom: 0.4rem;
+  }
+
   .grid-sizer,
   .grid-item {
     width: 250px;

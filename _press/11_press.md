@@ -7,4 +7,5 @@ img: assets/img/sig05-027_ti-a9bb6.jpg
 redirect: https://www.obspm.fr/dust-in-the-neighborhood-of-stellar-habitable.html?lang=en
 importance: 10
 category: press
+date: 2013-07-11
 ---
