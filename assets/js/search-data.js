@@ -85,7 +85,7 @@ ninja.data = [{
               window.location.href = "/news/s301.html";
             },},{id: "news-asgard-nott-status-update",
           title: 'Asgard/NOTT status update',
-          description: "Laboratory nulling on the KU Leuven test bench, the NOTT cold nulling camera, and the integration status of the full Asgard suite at the VLTI.",
+          description: "First dispersed laboratory nulls, a working cryogenic camera, and a clear path for the first L-band nuller on the VLTI.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-asgard-nott-status.html";
             },},{id: "news-gravity-takes-a-first-look-at-the-young-protoplanet-wispit-2-b",
