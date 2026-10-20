@@ -11,6 +11,4 @@ description: GPAO first-light commissioning shows order-of-magnitude gains in VL
 
 Commissioning of the natural-guide-star mode at the end of 2024 already produced interferometric observations that were out of reach before: a quasar at redshift z ~ 4, a cool brown dwarf at K ~ 21, the first GRAVITY spectrum of a Class I young star, and the first sub-microarcsecond optical differential astrometry.
 
-I am a co-author of the paper and a member of the GRAVITY+ consortium.
-
 Read [First Light for the GRAVITY+ Adaptive Optics](https://doi.org/10.1051/0004-6361/202555666) in _Astronomy & Astrophysics_ 707, A115 (March 2026).
