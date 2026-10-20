@@ -88,6 +88,16 @@ ninja.data = [{
           description: "GRAVITY+ has found S301, a faint star on an extreme orbit around Sagittarius A* that is sensitive to the spin of the Milky Way&#39;s central black hole.",
           section: "News",handler: () => {
               window.location.href = "/news/s301.html";
+            },},{id: "news-asgard-nott-status-update",
+          title: 'Asgard/NOTT status update',
+          description: "Peter Chingaipe reports on the NOTT cold nulling camera, and Marc-Antoine Martinod presents the integration status and plans for the full Asgard suite at the VLTI.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-asgard-nott-status.html";
+            },},{id: "news-gravity-takes-a-first-look-at-the-young-protoplanet-wispit-2-b",
+          title: 'GRAVITY+ takes a first look at the young protoplanet WISPIT 2 b',
+          description: "New high-precision VLTI/GRAVITY+ astrometry and a K-band spectrum of this ~5-million-year-old forming planet sharpen its orbit and constrain its atmosphere and circumplanetary environment.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-wispit2b-gravityplus.html";
             },},{id: "press-astronomers-gear-up-to-discover-earth-like-planets",
           title: 'Astronomers Gear Up to Discover Earth-like Planets',
           description: "As part of an international team of exoplanets hunters, we are developing a technique to detect faint dust clouds around other stars, many of which might hide Earth-like planets. Funded by NASA, our team is in the middle of carrying out tests to demonstrate the feasibility of these observations using both apertures of the Large Binocular Telescope, or LBT, in Arizona. The project aims at determining how difficult it would be to achieve the desired results before committing to a billion-dollar space telescope mission.",
