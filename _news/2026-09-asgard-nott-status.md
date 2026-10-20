@@ -13,6 +13,6 @@ On the KU Leuven four-beam test bench, T. Mattheussen and colleagues have record
 
 The cold nulling camera itself is already running in the cryostat. Peter Chingaipe reports cooldown of the cold optics near 100 K and the detector near 30 K, a vacuum of 8×10⁻⁸ mbar, and cryogenic validation of the filter wheel that will disperse the chip's photometric, bright, and nulled outputs at 3.5–4.0 µm.
 
-With [Asgard](http://asgard-vlti.org/) Phase 1 already on sky, Marc-Antoine Martinod presents the integration status and the next steps that will bring the full suite — including NOTT — onto the VLTI for high-contrast observations from the Y band into the L band.
+With [Asgard](https://asgard-vlti.github.io) Phase 1 already on sky, Marc-Antoine Martinod presents the integration status and the next steps that will bring the full suite — including NOTT — onto the VLTI for high-contrast observations from the Y band into the L band.
 
 Read [Asgard/NOTT: Status of laboratory nulling performance](https://arxiv.org/abs/2608.18951) (SPIE 14148, July 2026), [Status and performance of the Asgard/NOTT cold nulling camera](https://arxiv.org/abs/2609.21546) (SPIE 14148, 1414827), and [Pushing high angular resolution and high contrast observations on the VLTI from Y to L band with the Asgard instrumental suite: integration status and plans](https://arxiv.org/abs/2609.24567) (SPIE 14148, 1414808).
