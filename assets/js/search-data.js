@@ -78,11 +78,6 @@ ninja.data = [{
           description: "VLTI/GRAVITY+ did not recover the inner PDS 70 point source, pointing to a dust clump rather than a third protoplanet.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-06-pds70-gravityplus.html";
-            },},{id: "news-nott-laboratory-nulling-first-dispersed-ambient-measurements",
-          title: 'NOTT laboratory nulling: first dispersed ambient measurements',
-          description: "The KU Leuven Asgard/NOTT test bench reports its first spectrally dispersed ambient nulls as the cryogenic spectrograph is integrated.",
-          section: "News",handler: () => {
-              window.location.href = "/news/2026-07-nott-lab-nulling.html";
             },},{id: "news-dancing-on-the-edge-of-a-black-hole-meet-s301",
           title: 'Dancing on the edge of a black hole: Meet S301',
           description: "GRAVITY+ has found S301, a faint star on an extreme orbit around Sagittarius A* that is sensitive to the spin of the Milky Way&#39;s central black hole.",
@@ -90,7 +85,7 @@ ninja.data = [{
               window.location.href = "/news/s301.html";
             },},{id: "news-asgard-nott-status-update",
           title: 'Asgard/NOTT status update',
-          description: "Peter Chingaipe reports on the NOTT cold nulling camera, and Marc-Antoine Martinod presents the integration status and plans for the full Asgard suite at the VLTI.",
+          description: "Laboratory nulling on the KU Leuven test bench, the NOTT cold nulling camera, and the integration status of the full Asgard suite at the VLTI.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-asgard-nott-status.html";
             },},{id: "news-gravity-takes-a-first-look-at-the-young-protoplanet-wispit-2-b",
