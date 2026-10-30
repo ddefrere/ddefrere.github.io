@@ -48,6 +48,7 @@ nav_order: 7
     <ul>
         <li>Robbe Elsen — Performance and data reduction of Asgard/NOTT (2026–2027; co-supervision with Thomas Mattheussen)</li>
         <li>Akhila Thamaravelil Abhimanue Achary — Advanced post-processing for the detection of exoplanets around alpha Cen with ELT/METIS (2026–2027; co-supervision with Olivier Absil)</li>
+        <li>Joana Dimitrova — Flexible versus fixed baselines: A comparison of nulling interferometry exoplanet performance for biomarker detection (2026–2027)</li>
         <li>Alen Baburaj Kuriakose — Spectral characterization of the Asgard/NOTT photonic interferometric beam combiner (2025–2026; co-supervision with Peter Chingaipe)</li>
         <li>Jingyi Ping — Survival of protoplanetary disks under external photoevaporation (2025–2026; co-supervision with Paola Pinilla, UCL)</li>
         <li>Loes Rutten — Characterising Earth-like exoplanets: impact of instrumental errors on the performance of space-based nulling interferometry (2024–2025)</li>
