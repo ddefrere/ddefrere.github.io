@@ -133,6 +133,7 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - AGENTS.md
+  - GLOBAL_AI_RULES.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
