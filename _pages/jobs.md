@@ -13,8 +13,8 @@ Candidates interested in applying for an FWO junior or senior postdoctoral fello
 
 <div>
     <ul>
-        <li>FWO Junior postdoctoral fellowship (3 years; deadline 16 November 2026) — <a target="_blank" href="https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/">FWO</a></li>
-        <li>FWO Senior postdoctoral fellowship (3 years; deadline 16 November 2026) — <a target="_blank" href="https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/senior-postdoctoral-fellowship/">FWO</a></li>
+        <li>FWO PhD Fellowship fundamental research (independent PhD project; opens 3 December 2026, deadline 1 March 2027 at 17:00 CET) — <a target="_blank" href="https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-fundamental-research/">FWO</a>. A promotor recommendation letter is now required, so please contact Denis well in advance (for example by January 2027).</li>
+        <li>FWO PhD Fellowship strategic basic research (suited to instrumentation and photonics projects; opens 3 December 2026, deadline 1 March 2027 at 17:00 CET) — <a target="_blank" href="https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-strategic-basic-research/">FWO</a>. A promotor recommendation letter is required; interested candidates are welcome to get in touch with Denis well in advance.</li>
     </ul>
 </div>
 
@@ -22,6 +22,8 @@ Candidates interested in applying for an FWO junior or senior postdoctoral fello
 
 <div>
     <ul>
+        <li>FWO Junior postdoctoral fellowship (2026) — <a target="_blank" href="https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/">FWO</a></li>
+        <li>FWO Senior postdoctoral fellowship (2026) — <a target="_blank" href="https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/senior-postdoctoral-fellowship/">FWO</a></li>
         <li>Postdoctoral position on VLTI instrumentation for exoplanet imaging (2022) — <a target="_blank" href="https://jobregister.aas.org/ad/a5a1a46a">AAS Job Register</a></li>
         <li>Electronics/control engineer for astronomical instrumentation and telescopes (2021) — <a target="_blank" href="/assets/pdf/engineer1.pdf">PDF</a></li>
         <li>Software engineer for astronomical instrumentation and telescopes (2021) — <a target="_blank" href="/assets/pdf/engineer2.pdf">PDF</a></li>
